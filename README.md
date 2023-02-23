@@ -32,7 +32,7 @@ A book about the internals of PostgreSQL open source database. Any suggestion pl
 - 第六章，逻辑复制技术，依然是前三章的延续的高级知识。
 - 第七章， 。。。。
 
-
+待续。。。。
 
 
 
