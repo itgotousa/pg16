@@ -3,7 +3,7 @@ A book about the internals of PostgreSQL open source database. It is written by 
 Any suggestion please send to itgotousa@gmail.com. Thx!
 
 
-## 前言
+## 《PostgreSQL老鸟之路》- 前言
 
 在IT行业浪迹了二十多年以后，我决定写人生第一本IT技术方面的书，那就是你面前的这本书。也许是因为命运的安排，十多年前我来到美国后，阴差阳错地进入了数据库管理员DBA（Database Administrator）的行业，从此我的职业生涯的大部分时间都是和Oracle等数据库软件打交道，所以本书的内容是深入理解著名的开源数据库PostgreSQL管理方面的相关技术，大约类似“某某某从入门到精通”之流，但绝对不会教你如何从删库到跑路。书名叫做《PostgreSQL老鸟之路》。
 
