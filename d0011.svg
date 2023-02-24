@@ -7,7 +7,7 @@
 <line x1="170" y1="200" x2="170" y2="240" stroke="#0000FF" stroke-width="2"/>
 <line x1="210" y1="200" x2="210" y2="240" stroke="#0000FF" stroke-width="2"/>
 
-<line x1="510" y1="510" x2="510" y2="240" stroke="#0000FF" stroke-width="2"/>
+<line x1="510" y1="200" x2="510" y2="240" stroke="#0000FF" stroke-width="2"/>
   
 <text x="50" y="100" style="font-size:15px;font-family:'Courier New'">
 一个指针变量指向内存的第一个字节
