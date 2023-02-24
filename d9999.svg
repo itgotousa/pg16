@@ -7,7 +7,7 @@ ShmemSegHdr
 </text>
 
 <line x1="50" y1="110" x2="50" y2="188" stroke="#000" stroke-width="1" marker-end="url(#arrowhead)" />
-<text x="50" y="100" style="font-size:15px;font-family:'Courier New'">
+<text x="50" y="300" style="font-size:15px;font-family:'Courier New'">
 共享内存的头部结构
 </text>  
 </svg>
