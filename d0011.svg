@@ -2,6 +2,13 @@
 <defs><marker id="arrowhead" markerWidth="10" markerHeight="7" refX="0" refY="3.5" orient="auto"><polygon points="0 0, 10 3.5, 0 7" /></marker></defs>
 
 <rect x="50" y="200" width="500" height="40" style="fill:none;stroke:#0000FF;stroke-width:2" />
+<line x1="90" y1="200" x2="90" y2="240" stroke="#0000FF" stroke-width="2"/>
+<line x1="130" y1="200" x2="130" y2="240" stroke="#0000FF" stroke-width="2"/>
+<line x1="170" y1="200" x2="170" y2="240" stroke="#0000FF" stroke-width="2"/>
+<line x1="210" y1="200" x2="210" y2="240" stroke="#0000FF" stroke-width="2"/>
+
+<line x1="510" y1="510" x2="90" y2="240" stroke="#0000FF" stroke-width="2"/>
+  
 <text x="50" y="100" style="font-size:15px;font-family:'Courier New'">
 一个指针变量指向内存的第一个字节
 </text>
