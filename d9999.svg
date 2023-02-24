@@ -1,21 +1,11 @@
-<svg version="1.1"
-     width="800" height="600"
-     xmlns="http://www.w3.org/2000/svg">
+<svg version="1.1" width="600" height="600" xmlns="http://www.w3.org/2000/svg">
+<defs><marker id="arrowhead" markerWidth="10" markerHeight="7" refX="0" refY="3.5" orient="auto"><polygon points="0 0, 10 3.5, 0 7" /></marker></defs>
 
-  <defs>
-    <marker id="arrowhead" markerWidth="10" markerHeight="7" 
-    refX="0" refY="3.5" orient="auto">
-      <polygon points="0 0, 10 3.5, 0 7" />
-    </marker>
-  </defs>
-
-<rect x="100" y="200" width="600" height="70" style="fill:none;stroke:#0000FF;stroke-width:1" />
-  
+<rect x="50" y="200" width="500" height="60" style="fill:none;stroke:#0000FF;stroke-width:2" />
 <text x="50" y="100" style="font-size:15px;font-family:'Courier New'">
 ShmemSegHdr
 </text>
-  
-<line x1="100" y1="110" x2="100" y2="188" stroke="#000" stroke-width="1" marker-end="url(#arrowhead)" />
 
+<line x1="50" y1="110" x2="50" y2="188" stroke="#000" stroke-width="1" marker-end="url(#arrowhead)" />
 </svg>
 
