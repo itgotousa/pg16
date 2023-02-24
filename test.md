@@ -7,5 +7,5 @@
 
 ![d0001](https://github.com/itgotousa/pg16/blob/main/d0001.svg)
 
-显示SVG图像测试！
+为什么SVG的图像不同步更新？！
 
