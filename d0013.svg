@@ -1,0 +1,72 @@
+<svg version="1.1" width="700" height="600" xmlns="http://www.w3.org/2000/svg">
+<defs><marker id="arrowhead" markerWidth="10" markerHeight="7" refX="0" refY="3.5" orient="auto"><polygon points="0 0, 10 3.5, 0 7" /></marker></defs>
+
+
+<rect x="100" y="50" width="300" height="50" style="fill:#DAE8FC;stroke:#0000FF;stroke-width:1" />
+<rect x="160" y="54" width="40" height="42" style="fill:#F8CECC;stroke:#0000FF;stroke-width:1" />
+<text x="168" y="70" style="font-size:13px;font-family:'Microsoft YaHei'">
+Tag
+</text>
+<text x="175" y="95" style="font-size:15px;font-family:'Microsoft YaHei'">
+*
+</text>
+
+<line x1="180" y1="100" x2="95" y2="140" stroke="#000" stroke-width="1" marker-end="url(#arrowhead)" />
+
+<line x1="320" y1="100" x2="435" y2="140" stroke="#000" stroke-width="1"  marker-end="url(#arrowhead)" />
+
+
+<rect x="300" y="54" width="40" height="42" style="fill:#F8CECC;stroke:#0000FF;stroke-width:1" />
+<text x="308" y="70" style="font-size:13px;font-family:'Microsoft YaHei'">
+Tag
+</text>
+<text x="315" y="95" style="font-size:15px;font-family:'Microsoft YaHei'">
+*
+</text>
+
+<line x1="550" y1="75" x2="415" y2="75" stroke="#000" stroke-width="1" stroke-dasharray="5,3" marker-end="url(#arrowhead)" />
+<line x1="550" y1="175" x2="525" y2="175" stroke="#000" stroke-width="1" stroke-dasharray="5,3" marker-end="url(#arrowhead)" />
+<line x1="550" y1="295" x2="525" y2="295" stroke="#000" stroke-width="1" stroke-dasharray="5,3" marker-end="url(#arrowhead)" />
+
+<text x="555" y="80" style="font-size:15px;font-family:'Microsoft YaHei'">
+Buffer Table
+</text>
+<text x="555" y="180" style="font-size:15px;font-family:'Microsoft YaHei'">
+Buffer Descriptor
+</text>
+<text x="555" y="300" style="font-size:15px;font-family:'Microsoft YaHei'">
+Buffer Pool
+</text>
+
+<rect x="10" y="150" width="500" height="50" style="fill:#FFE6CC;stroke:#0000FF;stroke-width:1" />
+<line x1="60" y1="150" x2="60" y2="200" stroke="#0000FF" stroke-width="1"/>
+<line x1="110" y1="150" x2="110" y2="200" stroke="#0000FF" stroke-width="1"/>
+<line x1="160" y1="150" x2="160" y2="200" stroke="#0000FF" stroke-width="1"/>
+<line x1="210" y1="150" x2="210" y2="200" stroke="#0000FF" stroke-width="1"/>
+<text x="250" y="175" style="font-size:30px;font-family:'Courier New'">
+......
+</text>
+<line x1="460" y1="150" x2="460" y2="200" stroke="#0000FF" stroke-width="1"/>
+<line x1="410" y1="150" x2="410" y2="200" stroke="#0000FF" stroke-width="1"/>
+
+<rect x="10" y="230" width="500" height="120" style="fill:#F8CECC;stroke:#0000FF;stroke-width:1" />
+<line x1="60" y1="230" x2="60" y2="350" stroke="#0000FF" stroke-width="1"/>
+<line x1="110" y1="230" x2="110" y2="350" stroke="#0000FF" stroke-width="1"/>
+<line x1="160" y1="230" x2="160" y2="350" stroke="#0000FF" stroke-width="1"/>
+<line x1="210" y1="230" x2="210" y2="350" stroke="#0000FF" stroke-width="1"/>
+<line x1="460" y1="230" x2="460" y2="350" stroke="#0000FF" stroke-width="1"/>
+<line x1="410" y1="230" x2="410" y2="350" stroke="#0000FF" stroke-width="1"/>
+<text x="250" y="290" style="font-size:30px;font-family:'Courier New'">
+......
+</text>
+
+
+<line x1="35" y1="203" x2="35" y2="217" stroke="#000" stroke-width="1" stroke-dasharray="5,3" marker-end="url(#arrowhead)" />
+<line x1="85" y1="203" x2="85" y2="217" stroke="#000" stroke-width="1" stroke-dasharray="5,3" marker-end="url(#arrowhead)" />
+<line x1="135" y1="203" x2="135" y2="217" stroke="#000" stroke-width="1" stroke-dasharray="5,3" marker-end="url(#arrowhead)" />
+<line x1="185" y1="203" x2="185" y2="217" stroke="#000" stroke-width="1" stroke-dasharray="5,3" marker-end="url(#arrowhead)" />
+<line x1="485" y1="203" x2="485" y2="217" stroke="#000" stroke-width="1" stroke-dasharray="5,3" marker-end="url(#arrowhead)" />
+<line x1="435" y1="203" x2="435" y2="217" stroke="#000" stroke-width="1" stroke-dasharray="5,3" marker-end="url(#arrowhead)" />
+
+
+</svg>
