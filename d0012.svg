@@ -5,13 +5,32 @@
 <rect x="60" y="50" width="400" height="100" style="fill:#F8CECC;stroke:#0000FF;stroke-width:1" />
 <rect x="130" y="50" width="180" height="100" style="fill:#FFFFFF;stroke:#0000FF;stroke-width:1" />
 
-<line x1="100" y1="100" x2="150" y2="100" stroke="#000" stroke-width="1" stroke-dasharray="5,3" marker-end="url(#arrowhead)" />
+<line x1="130" y1="100" x2="170" y2="100" stroke="#000" stroke-width="1" stroke-dasharray="5,3" marker-end="url(#arrowhead)" />
 
-<line x1="350" y1="100" x2="280" y2="100" stroke="#000" stroke-width="1" stroke-dasharray="5,3" marker-end="url(#arrowhead)" />
+<line x1="310" y1="100" x2="270" y2="100" stroke="#000" stroke-width="1" stroke-dasharray="5,3" marker-end="url(#arrowhead)" />
 
+<line x1="35" y1="30" x2="35" y2="70" stroke="#000" stroke-width="1"  marker-end="url(#arrowhead)" />
+<text x="10" y="25" style="font-size:15px;font-family:'Courier New'">
+头部区域
+</text>
 
-<text x="190" y="105" style="font-size:15px;font-family:'Courier New'">
+<line x1="95" y1="165" x2="95" y2="130" stroke="#000" stroke-width="1"  marker-end="url(#arrowhead)" />
+<line x1="95" y1="165" x2="115" y2="165" stroke="#000" stroke-width="1" />
+<text x="120" y="170" style="font-size:15px;font-family:'Courier New'">
+数据指针区域
+</text>
+
+<text x="190" y="80" style="font-size:15px;font-family:'Courier New'">
 空白区域
+</text>
+
+<text x="360" y="105" style="font-size:15px;font-family:'Courier New'">
+数据区域
+</text>
+
+<line x1="485" y1="30" x2="485" y2="70" stroke="#000" stroke-width="1"  marker-end="url(#arrowhead)" />
+<text x="460" y="25" style="font-size:15px;font-family:'Courier New'">
+特殊区域
 </text>
 
 </svg>
