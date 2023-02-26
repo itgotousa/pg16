@@ -14,17 +14,17 @@
 <line x1="250" y1="50" x2="32" y2="50" stroke="#000" stroke-width="1" marker-end="url(#arrowhead)" />
 <line x1="350" y1="50" x2="568" y2="50" stroke="#000" stroke-width="1" marker-end="url(#arrowhead)" />
 
-<rect x="20" y="80" width="560" height="40" style="fill:#DAE8FC;stroke:#0000FF;stroke-width:2" />
-<line x1="60" y1="80" x2="60" y2="120" stroke="#0000FF" stroke-width="2"/>
-<line x1="100" y1="80" x2="100" y2="120" stroke="#0000FF" stroke-width="2"/>
-<line x1="140" y1="80" x2="140" y2="120" stroke="#0000FF" stroke-width="2"/>
-<line x1="180" y1="80" x2="180" y2="120" stroke="#0000FF" stroke-width="2"/>
+<rect x="20" y="80" width="560" height="40" style="fill:#DAE8FC;stroke:#0000FF;stroke-width:1" />
+<line x1="60" y1="80" x2="60" y2="120" stroke="#0000FF" stroke-width="1"/>
+<line x1="100" y1="80" x2="100" y2="120" stroke="#0000FF" stroke-width="1"/>
+<line x1="140" y1="80" x2="140" y2="120" stroke="#0000FF" stroke-width="1"/>
+<line x1="180" y1="80" x2="180" y2="120" stroke="#0000FF" stroke-width="1"/>
 
-<line x1="540" y1="80" x2="540" y2="120" stroke="#0000FF" stroke-width="2"/>
-<line x1="500" y1="80" x2="500" y2="120" stroke="#0000FF" stroke-width="2"/>
+<line x1="540" y1="80" x2="540" y2="120" stroke="#0000FF" stroke-width="1"/>
+<line x1="500" y1="80" x2="500" y2="120" stroke="#0000FF" stroke-width="1"/>
 
-<line x1="380" y1="80" x2="380" y2="120" stroke="#0000FF" stroke-width="2"/>
-<line x1="340" y1="80" x2="340" y2="120" stroke="#0000FF" stroke-width="2"/>
+<line x1="380" y1="80" x2="380" y2="120" stroke="#0000FF" stroke-width="1"/>
+<line x1="340" y1="80" x2="340" y2="120" stroke="#0000FF" stroke-width="1"/>
 
 <line x1="40" y1="190" x2="40" y2="133" stroke="#000" stroke-width="1" marker-end="url(#arrowhead)" />
 <line x1="360" y1="190" x2="360" y2="133" stroke="#000" stroke-width="1" marker-end="url(#arrowhead)" />
