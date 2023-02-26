@@ -6,9 +6,9 @@
 
 显示SVG图像测试！
 
-![](d9999.svg)
+![](d0013.svg)
 
-为什么SVG的图像不同步更新？！
+显示SVG图像测试！
 
 这是代码区块
   #include "utils/lsyscache.h"
