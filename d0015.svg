@@ -30,6 +30,21 @@ autovacuum launcher
 wal sender
 </text>
 
+<line x1="395" y1="80" x2="385" y2="80" stroke="#000" stroke-width="1" marker-end="url(#arrowhead)" />
+<line x1="395" y1="80" x2="405" y2="80" stroke="#000" stroke-width="1" marker-end="url(#arrowhead)" />
+
+<line x1="395" y1="130" x2="385" y2="130" stroke="#000" stroke-width="1" marker-end="url(#arrowhead)" />
+<line x1="395" y1="130" x2="405" y2="130" stroke="#000" stroke-width="1" marker-end="url(#arrowhead)" />
+
+<line x1="395" y1="180" x2="385" y2="180" stroke="#000" stroke-width="1" marker-end="url(#arrowhead)" />
+<line x1="395" y1="180" x2="405" y2="180" stroke="#000" stroke-width="1" marker-end="url(#arrowhead)" />
+
+<line x1="395" y1="230" x2="385" y2="230" stroke="#000" stroke-width="1" marker-end="url(#arrowhead)" />
+<line x1="395" y1="230" x2="405" y2="230" stroke="#000" stroke-width="1" marker-end="url(#arrowhead)" />
+
+<line x1="395" y1="280" x2="385" y2="280" stroke="#000" stroke-width="1" marker-end="url(#arrowhead)" />
+<line x1="395" y1="280" x2="405" y2="280" stroke="#000" stroke-width="1" marker-end="url(#arrowhead)" />
+
 <rect x="20" y="40" width="350" height="300" style="fill:rgb(255,242,204);stroke:#0000FF;stroke-width:1" />
 <text x="150" y="30" style="font-size:15px;font-family:'Arial'">
 shared memory
@@ -39,6 +54,9 @@ shared memory
 <text x="70" y="420" style="font-size:15px;font-family:'Arial'">
 postgres
 </text>
+
+<line x1="100" y1="360" x2="100" y2="355" stroke="#000" stroke-width="1" marker-end="url(#arrowhead)" />
+<line x1="100" y1="360" x2="100" y2="365" stroke="#000" stroke-width="1" marker-end="url(#arrowhead)" />
 
 <ellipse cx="500" cy="420" rx="80" ry="40" style="fill:rgb(248,206,204);stroke:#0000FF;stroke-width:1" />
 <text x="465" y="420" style="font-size:15px;font-family:'Arial'">
@@ -64,6 +82,10 @@ client
 <line x1="380" y1="530" x2="480" y2="470" stroke="#000" stroke-dasharray="5,3" stroke-width="1" marker-end="url(#arrowhead)" />
 <line x1="220" y1="530" x2="130" y2="470" stroke="#000" stroke-width="1" marker-end="url(#arrowhead)" />
 
+<text x="100" y="90" style="font-size:15px;font-family:'Arial'">
+WAL buffer
+</text>
+<rect x="30" y="100" width="200" height="50" style="fill:rgb(225,213,231);stroke:#0000FF;stroke-width:1" />
 
 <text x="170" y="220" style="font-size:15px;font-family:'Arial'">
 buffer pool
@@ -73,4 +95,10 @@ buffer pool
 <line x1="130" y1="230" x2="130" y2="330" stroke="#0000FF" stroke-width="1" />
 <line x1="180" y1="230" x2="180" y2="330" stroke="#0000FF" stroke-width="1" />
 <line x1="310" y1="230" x2="310" y2="330" stroke="#0000FF" stroke-width="1" />
+
+<text x="290" y="65" style="font-size:15px;font-family:'Arial'">
+others
+</text>
+<rect x="250" y="70" width="110" height="150" style="fill:rgb(225,213,231);stroke:#0000FF;stroke-width:1" />
+
 </svg>
