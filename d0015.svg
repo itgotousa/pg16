@@ -1,0 +1,76 @@
+<svg version="1.1" width="600" height="600" xmlns="http://www.w3.org/2000/svg">
+<defs><marker id="arrowhead" markerWidth="10" markerHeight="7" refX="0" refY="3.5" orient="auto"><polygon points="0 0, 10 3.5, 0 7" /></marker></defs>
+
+<!--
+<line x1="1" y1="1" x2="600" y2="1" stroke="#0000FF" stroke-width="1"/>
+<line x1="1" y1="1" x2="1" y2="400" stroke="#0000FF" stroke-width="1"/>
+<line x1="1" y1="600" x2="600" y2="600" stroke="#0000FF" stroke-width="1"/>
+<line x1="600" y1="1" x2="600" y2="600" stroke="#0000FF" stroke-width="1"/>
+-->
+
+
+<ellipse cx="500" cy="80" rx="80" ry="40" style="fill:rgb(213,232,212);stroke:#0000FF;stroke-width:1" />
+<text x="440" y="80" style="font-size:15px;font-family:'Arial'">
+background writer
+</text>
+<ellipse cx="500" cy="130" rx="80" ry="40" style="fill:rgb(213,232,212);stroke:#0000FF;stroke-width:1" />
+<text x="460" y="130" style="font-size:15px;font-family:'Arial'">
+checkpointer
+</text>
+<ellipse cx="500" cy="180" rx="80" ry="40" style="fill:rgb(213,232,212);stroke:#0000FF;stroke-width:1" />
+<text x="460" y="180" style="font-size:15px;font-family:'Arial'">
+walwriter
+</text>
+<ellipse cx="500" cy="230" rx="80" ry="40" style="fill:rgb(213,232,212);stroke:#0000FF;stroke-width:1" />
+<text x="430" y="230" style="font-size:15px;font-family:'Arial'">
+autovacuum launcher
+</text>
+<ellipse cx="500" cy="280" rx="80" ry="40" style="fill:rgb(213,232,212);stroke:#0000FF;stroke-width:1" />
+<text x="450" y="280" style="font-size:15px;font-family:'Arial'">
+wal sender
+</text>
+
+<rect x="20" y="40" width="350" height="300" style="fill:rgb(255,242,204);stroke:#0000FF;stroke-width:1" />
+<text x="150" y="30" style="font-size:15px;font-family:'Arial'">
+shared memory
+</text>
+
+<ellipse cx="100" cy="420" rx="80" ry="40" style="fill:rgb(213,232,212);stroke:#0000FF;stroke-width:1" />
+<text x="70" y="420" style="font-size:15px;font-family:'Arial'">
+postgres
+</text>
+
+<ellipse cx="500" cy="420" rx="80" ry="40" style="fill:rgb(248,206,204);stroke:#0000FF;stroke-width:1" />
+<text x="465" y="420" style="font-size:15px;font-family:'Arial'">
+postmaster
+</text>
+<line x1="500" y1="375" x2="500" y2="335" stroke="#000" stroke-width="1" marker-end="url(#arrowhead)" />
+<text x="510" y="360" style="font-size:15px;font-family:'Courier New'">
+fork()
+</text>
+
+<line x1="410" y1="420" x2="200" y2="420" stroke="#000" stroke-width="1" marker-end="url(#arrowhead)" />
+<text x="280" y="410" style="font-size:15px;font-family:'Courier New'">
+fork()
+</text>
+
+<line x1="10" y1="480" x2="590" y2="480" stroke="#000000" stroke-dasharray="5,3" stroke-width="1" />
+
+<ellipse cx="300" cy="550" rx="80" ry="40" style="fill:rgb(213,232,212);stroke:#0000FF;stroke-width:1" />
+<text x="280" y="550" style="font-size:15px;font-family:'Arial'">
+client
+</text>
+
+<line x1="380" y1="530" x2="480" y2="470" stroke="#000" stroke-width="1" marker-end="url(#arrowhead)" />
+<line x1="220" y1="530" x2="130" y2="470" stroke="#000" stroke-width="1" marker-end="url(#arrowhead)" />
+
+
+<text x="170" y="220" style="font-size:15px;font-family:'Arial'">
+buffer pool
+</text>
+<rect x="30" y="230" width="330" height="100" style="fill:rgb(225,213,231);stroke:#0000FF;stroke-width:1" />
+<line x1="80" y1="230" x2="80" y2="330" stroke="#0000FF" stroke-width="1" />
+<line x1="130" y1="230" x2="130" y2="330" stroke="#0000FF" stroke-width="1" />
+<line x1="180" y1="230" x2="180" y2="330" stroke="#0000FF" stroke-width="1" />
+<line x1="310" y1="230" x2="310" y2="330" stroke="#0000FF" stroke-width="1" />
+</svg>
