@@ -1,0 +1,44 @@
+<svg version="1.1" width="600" height="120" xmlns="http://www.w3.org/2000/svg">
+<defs><marker id="arrowhead" markerWidth="10" markerHeight="7" refX="0" refY="3.5" orient="auto"><polygon points="0 0, 10 3.5, 0 7" /></marker></defs>
+
+<rect x="20" y="60" width="80" height="40" style="fill:rgb(225,213,231);stroke:#0000FF;stroke-width:1" />
+<rect x="110" y="60" width="80" height="40" style="fill:rgb(225,213,231);stroke:#0000FF;stroke-width:1" />
+<rect x="200" y="60" width="80" height="40" style="fill:rgb(225,213,231);stroke:#0000FF;stroke-width:1" />
+<rect x="380" y="60" width="80" height="40" style="fill:rgb(225,213,231);stroke:#0000FF;stroke-width:1" />
+<rect x="500" y="60" width="80" height="40" style="fill:rgb(225,213,231);stroke:#0000FF;stroke-width:1" />
+
+<line x1="20" y1="20" x2="20" y2="55" stroke="#000000" stroke-dasharray="5,3" stroke-width="1"/>
+<line x1="460" y1="20" x2="460" y2="55" stroke="#000000" stroke-dasharray="5,3" stroke-width="1"/>
+
+<line x1="200" y1="40" x2="445" y2="40" stroke="#000" stroke-width="1" marker-end="url(#arrowhead)" />
+<line x1="200" y1="40" x2="35" y2="40" stroke="#000" stroke-width="1" marker-end="url(#arrowhead)" />
+
+
+<text x="310" y="80" style="font-size:25px;font-family:'Arial'">
+......
+</text>
+
+<text x="470" y="80" style="font-size:25px;font-family:'Arial'">
+...
+</text>
+
+<text x="200" y="30" style="font-size:20px;font-family:'Arial'">
+logical file (4GB)
+</text>
+
+<text x="30" y="85" style="font-size:15px;font-family:'Arial'">
+segment
+</text>
+<text x="120" y="85" style="font-size:15px;font-family:'Arial'">
+segment
+</text>
+<text x="210" y="85" style="font-size:15px;font-family:'Arial'">
+segment
+</text>
+<text x="390" y="85" style="font-size:15px;font-family:'Arial'">
+segment
+</text>
+<text x="510" y="85" style="font-size:15px;font-family:'Arial'">
+segment
+</text>
+</svg>
