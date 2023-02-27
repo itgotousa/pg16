@@ -1,17 +1,17 @@
 <svg version="1.1" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
 <defs><marker id="arrowhead" markerWidth="10" markerHeight="7" refX="0" refY="3.5" orient="auto"><polygon points="0 0, 10 3.5, 0 7" /></marker></defs>
 
-<text x="20" y="20" style="font-size:15px;font-family:'Courier New'">
+<text x="20" y="30" style="font-size:15px;font-family:'Arial'">
 lock_1
 </text>
 
-<text x="120" y="20" style="font-size:15px;font-family:'Courier New'">
+<text x="120" y="30" style="font-size:15px;font-family:'Arial'">
 lock_2
 </text>
-<text x="220" y="20" style="font-size:15px;font-family:'Courier New'">
+<text x="220" y="30" style="font-size:15px;font-family:'Arial'">
 lock_3
 </text>
-<text x="520" y="20" style="font-size:15px;font-family:'Courier New'">
+<text x="520" y="30" style="font-size:15px;font-family:'Arial'">
 lock_N
 </text>
 
