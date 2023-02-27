@@ -1,0 +1,92 @@
+<svg version="1.1" width="600" height="480" xmlns="http://www.w3.org/2000/svg">
+<defs><marker id="arrowhead" markerWidth="10" markerHeight="7" refX="0" refY="3.5" orient="auto"><polygon points="0 0, 10 3.5, 0 7" /></marker></defs>
+
+
+<rect x="10" y="60" width="120" height="400" style="fill:rgb(227,200,0);stroke:#0000FF;stroke-width:1" />
+<line x1="10" y1="120" x2="130" y2="120" stroke="#0000FF" stroke-width="1"/>
+<line x1="10" y1="180" x2="130" y2="180" stroke="#0000FF" stroke-width="1"/>
+<line x1="10" y1="240" x2="130" y2="240" stroke="#0000FF" stroke-width="1"/>
+<line x1="10" y1="300" x2="130" y2="300" stroke="#0000FF" stroke-width="1"/>
+<line x1="10" y1="400" x2="130" y2="400" stroke="#0000FF" stroke-width="1"/>
+
+
+<rect x="500" y="70" width="90" height="40" style="fill:rgb(227,200,0);stroke:#0000FF;stroke-width:1" />
+<rect x="350" y="70" width="90" height="40" style="fill:rgb(227,200,0);stroke:#0000FF;stroke-width:1" />
+<rect x="200" y="70" width="90" height="40" style="fill:rgb(227,200,0);stroke:#0000FF;stroke-width:1" />
+
+<rect x="500" y="130" width="90" height="40" style="fill:rgb(227,200,0);stroke:#0000FF;stroke-width:1" />
+<rect x="350" y="130" width="90" height="40" style="fill:rgb(227,200,0);stroke:#0000FF;stroke-width:1" />
+<rect x="200" y="130" width="90" height="40" style="fill:rgb(227,200,0);stroke:#0000FF;stroke-width:1" />
+
+<rect x="500" y="190" width="90" height="40" style="fill:rgb(227,200,0);stroke:#0000FF;stroke-width:1" />
+<rect x="350" y="190" width="90" height="40" style="fill:rgb(227,200,0);stroke:#0000FF;stroke-width:1" />
+<rect x="200" y="190" width="90" height="40" style="fill:rgb(227,200,0);stroke:#0000FF;stroke-width:1" />
+
+<rect x="500" y="250" width="90" height="40" style="fill:rgb(227,200,0);stroke:#0000FF;stroke-width:1" />
+<rect x="350" y="250" width="90" height="40" style="fill:rgb(227,200,0);stroke:#0000FF;stroke-width:1" />
+<rect x="200" y="250" width="90" height="40" style="fill:rgb(227,200,0);stroke:#0000FF;stroke-width:1" />
+
+<rect x="500" y="410" width="90" height="40" style="fill:rgb(227,200,0);stroke:#0000FF;stroke-width:1" />
+<rect x="350" y="410" width="90" height="40" style="fill:rgb(227,200,0);stroke:#0000FF;stroke-width:1" />
+<rect x="200" y="410" width="90" height="40" style="fill:rgb(227,200,0);stroke:#0000FF;stroke-width:1" />
+
+<line x1="135" y1="90" x2="185" y2="90" stroke="#000" stroke-width="1" marker-end="url(#arrowhead)" />
+<line x1="295" y1="90" x2="335" y2="90" stroke="#000" stroke-width="1" marker-end="url(#arrowhead)" />
+<line x1="445" y1="90" x2="485" y2="90" stroke="#000" stroke-width="1" marker-end="url(#arrowhead)" />
+
+<line x1="135" y1="150" x2="185" y2="150" stroke="#000" stroke-width="1" marker-end="url(#arrowhead)" />
+<line x1="295" y1="150" x2="335" y2="150" stroke="#000" stroke-width="1" marker-end="url(#arrowhead)" />
+<line x1="445" y1="150" x2="485" y2="150" stroke="#000" stroke-width="1" marker-end="url(#arrowhead)" />
+
+<line x1="135" y1="210" x2="185" y2="210" stroke="#000" stroke-width="1" marker-end="url(#arrowhead)" />
+<line x1="295" y1="210" x2="335" y2="210" stroke="#000" stroke-width="1" marker-end="url(#arrowhead)" />
+<line x1="445" y1="210" x2="485" y2="210" stroke="#000" stroke-width="1" marker-end="url(#arrowhead)" />
+
+<line x1="135" y1="270" x2="185" y2="270" stroke="#000" stroke-width="1" marker-end="url(#arrowhead)" />
+<line x1="295" y1="270" x2="335" y2="270" stroke="#000" stroke-width="1" marker-end="url(#arrowhead)" />
+<line x1="445" y1="270" x2="485" y2="270" stroke="#000" stroke-width="1" marker-end="url(#arrowhead)" />
+
+<line x1="135" y1="430" x2="185" y2="430" stroke="#000" stroke-width="1" marker-end="url(#arrowhead)" />
+<line x1="295" y1="430" x2="335" y2="430" stroke="#000" stroke-width="1" marker-end="url(#arrowhead)" />
+<line x1="445" y1="430" x2="485" y2="430" stroke="#000" stroke-width="1" marker-end="url(#arrowhead)" />
+
+<text x="30" y="95" style="font-size:15px;font-family:'Arial'">
+freelist[0]
+</text>
+<text x="30" y="155" style="font-size:15px;font-family:'Arial'">
+freelist[1]
+</text>
+<text x="30" y="215" style="font-size:15px;font-family:'Arial'">
+freelist[2]
+</text>
+<text x="30" y="275" style="font-size:15px;font-family:'Arial'">
+freelist[3]
+</text>
+
+<text x="30" y="435" style="font-size:15px;font-family:'Arial'">
+freelist[10]
+</text>
+
+<text x="510" y="95" style="font-size:15px;font-family:'Arial'">8 bytes</text>
+<text x="360" y="95" style="font-size:15px;font-family:'Arial'">8 bytes</text>
+<text x="210" y="95" style="font-size:15px;font-family:'Arial'">8 bytes</text>
+
+<text x="510" y="155" style="font-size:15px;font-family:'Arial'">16 bytes</text>
+<text x="360" y="155" style="font-size:15px;font-family:'Arial'">16 bytes</text>
+<text x="210" y="155" style="font-size:15px;font-family:'Arial'">16 bytes</text>
+
+<text x="510" y="215" style="font-size:15px;font-family:'Arial'">32 bytes</text>
+<text x="360" y="215" style="font-size:15px;font-family:'Arial'">32 bytes</text>
+<text x="210" y="215" style="font-size:15px;font-family:'Arial'">32 bytes</text>
+
+<text x="510" y="275" style="font-size:15px;font-family:'Arial'">64 bytes</text>
+<text x="360" y="275" style="font-size:15px;font-family:'Arial'">64 bytes</text>
+<text x="210" y="275" style="font-size:15px;font-family:'Arial'">64 bytes</text>
+
+<text x="510" y="435" style="font-size:15px;font-family:'Arial'">8192 bytes</text>
+<text x="360" y="435" style="font-size:15px;font-family:'Arial'">8192 bytes</text>
+<text x="210" y="435" style="font-size:15px;font-family:'Arial'">8192 bytes</text>
+
+<text x="40" y="350" style="font-size:35px;font-family:'Arial'">......</text>
+<text x="340" y="350" style="font-size:35px;font-family:'Arial'">......</text>
+</svg>
