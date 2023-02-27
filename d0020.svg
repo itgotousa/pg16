@@ -4,10 +4,11 @@
 
 
 <ellipse cx="300" cy="400" rx="150" ry="20" style="fill:rgb(248,206,204);stroke:#0000FF;stroke-width:1" />
-<rect x="150" y="340" width="300" height="60" style="fill:rgb(248,206,204);stroke:#0000FF;stroke-width:1" />
+<polygon points="150,400 150,340 450,340 450,400" style="fill:rgb(248,206,204);stroke:rgb(248,206,204);stroke-width:1" />
+<line x1="150" y1="340" x2="150" y2="401" stroke="#0000FF" stroke-width="1"/> -->
+<line x1="450" y1="340" x2="450" y2="401" stroke="#0000FF" stroke-width="1"/> -->
 <ellipse cx="300" cy="340" rx="150" ry="20" style="fill:rgb(248,206,204);stroke:#0000FF;stroke-width:1" />
-<line x1="151" y1="400" x2="449" y2="400" stroke="rgb(248,206,204)" stroke-width="3"/>
-
+  
 <rect x="80" y="170" width="440" height="100" style="fill:rgb(225,213,231);stroke:#0000FF;stroke-width:1" />
 
 
