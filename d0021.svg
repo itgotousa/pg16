@@ -1,0 +1,27 @@
+<svg version="1.1" width="600" height="200" xmlns="http://www.w3.org/2000/svg">
+<defs><marker id="arrowhead" markerWidth="10" markerHeight="7" refX="0" refY="3.5" orient="auto"><polygon points="0 0, 10 3.5, 0 7" /></marker></defs>
+
+
+<text x="20" y="100" style="font-size:40px;font-family:'Arial'">
+000000090000002D000000BE
+</text>
+
+<line x1="198" y1="50" x2="198" y2="180" stroke-dasharray="4,4" stroke="#0000FF" stroke-width="1"/>
+<line x1="382" y1="50" x2="382" y2="180" stroke-dasharray="4,4" stroke="#0000FF" stroke-width="1"/>
+
+<line x1="20" y1="110" x2="580" y2="110" stroke="#0000FF" stroke-width="1"/>
+
+<line x1="110" y1="150" x2="110" y2="125" stroke="#000" stroke-width="1" marker-end="url(#arrowhead)" />
+<line x1="300" y1="150" x2="300" y2="125" stroke="#000" stroke-width="1" marker-end="url(#arrowhead)" />
+<line x1="470" y1="150" x2="470" y2="125" stroke="#000" stroke-width="1" marker-end="url(#arrowhead)" />
+
+<text x="80" y="170" style="font-size:20px;font-family:'Arial'">
+timeline
+</text>
+<text x="240" y="170" style="font-size:20px;font-family:'Arial'">
+logical file id
+</text>
+<text x="410" y="170" style="font-size:20px;font-family:'Arial'">
+segment file id
+</text>
+</svg>
