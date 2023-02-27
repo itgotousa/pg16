@@ -5,13 +5,13 @@
 lock_1
 </text>
 
-<text x="125" y="25" style="font-size:15px;font-family:'Arial'">
+<text x="125" y="30" style="font-size:15px;font-family:'Arial'">
 lock_2
 </text>
-<text x="225" y="20" style="font-size:15px;font-family:'Arial'">
+<text x="225" y="30" style="font-size:15px;font-family:'Arial'">
 lock_3
 </text>
-<text x="525" y="20" style="font-size:15px;font-family:'Arial'">
+<text x="525" y="30" style="font-size:15px;font-family:'Arial'">
 lock_N
 </text>
 
