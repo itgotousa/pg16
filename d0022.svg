@@ -1,0 +1,56 @@
+<svg version="1.1" width="600" height="320" xmlns="http://www.w3.org/2000/svg">
+<defs><marker id="arrowhead" markerWidth="10" markerHeight="7" refX="0" refY="3.5" orient="auto"><polygon points="0 0, 10 3.5, 0 7" /></marker></defs>
+
+<ellipse cx="120" cy="120" rx="100" ry="20" style="fill:rgb(248,206,204);stroke:#0000FF;stroke-width:1" />
+<polygon points="20,120 20,40 220,40 220,120" style="fill:rgb(248,206,204);stroke:rgb(248,206,204);stroke-width:1" />
+<line x1="20" y1="40" x2="20" y2="120" stroke="#0000FF" stroke-width="1"/>
+<line x1="220" y1="40" x2="220" y2="120" stroke="#0000FF" stroke-width="1"/>
+<ellipse cx="120" cy="40" rx="100" ry="20" style="fill:rgb(248,206,204);stroke:#0000FF;stroke-width:1" />
+
+<text x="65" y="45" style="font-size:15px;font-family:'Arial'">
+database cluster
+</text>
+
+<rect x="30" y="70" width="83" height="40" style="fill:rgb(225,213,231);stroke:#0000FF;stroke-width:1" />
+<text x="35" y="95" style="font-size:15px;font-family:'Arial'">
+database 1
+</text>
+
+<rect x="120" y="70" width="83" height="40" style="fill:rgb(225,213,231);stroke:#0000FF;stroke-width:1" />
+<text x="125" y="95" style="font-size:15px;font-family:'Arial'">
+database 2
+</text>
+
+<text x="380" y="60" style="font-size:15px;font-family:'Arial'">
+database 1
+</text>
+<rect x="250" y="70" width="330" height="230" style="fill:rgb(213,232,212);stroke:#0000FF;stroke-width:1" />
+<line x1="205" y1="70" x2="248" y2="70" stroke-dasharray="4,4" stroke="#0000FF" stroke-width="1"/>
+<line x1="120" y1="110" x2="248" y2="300" stroke-dasharray="4,4" stroke="#0000FF" stroke-width="1"/>
+
+<text x="350" y="90" style="font-size:15px;font-family:'Arial'">
+tables
+</text>
+<rect x="260" y="100" width="40" height="40" style="fill:rgb(225,213,231);stroke:#0000FF;stroke-width:1" />
+<rect x="310" y="100" width="40" height="40" style="fill:rgb(225,213,231);stroke:#0000FF;stroke-width:1" />
+<rect x="360" y="100" width="40" height="40" style="fill:rgb(225,213,231);stroke:#0000FF;stroke-width:1" />
+<rect x="410" y="100" width="40" height="40" style="fill:rgb(225,213,231);stroke:#0000FF;stroke-width:1" />
+
+<rect x="260" y="150" width="40" height="40" style="fill:rgb(225,213,231);stroke:#0000FF;stroke-width:1" />
+<rect x="310" y="150" width="40" height="40" style="fill:rgb(225,213,231);stroke:#0000FF;stroke-width:1" />
+<rect x="360" y="150" width="40" height="40" style="fill:rgb(225,213,231);stroke:#0000FF;stroke-width:1" />
+<rect x="410" y="150" width="40" height="40" style="fill:rgb(225,213,231);stroke:#0000FF;stroke-width:1" />
+
+<text x="350" y="240" style="font-size:15px;font-family:'Arial'">
+index
+</text>
+<rect x="260" y="250" width="40" height="40" style="fill:rgb(225,213,231);stroke:#0000FF;stroke-width:1" />
+<rect x="310" y="250" width="40" height="40" style="fill:rgb(225,213,231);stroke:#0000FF;stroke-width:1" />
+<rect x="360" y="250" width="40" height="40" style="fill:rgb(225,213,231);stroke:#0000FF;stroke-width:1" />
+<rect x="410" y="250" width="40" height="40" style="fill:rgb(225,213,231);stroke:#0000FF;stroke-width:1" />
+
+<text x="500" y="120" style="font-size:15px;font-family:'Arial'">
+others
+</text>
+<rect x="480" y="130" width="85" height="160" style="fill:rgb(225,213,231);stroke:#0000FF;stroke-width:1" />
+</svg>
