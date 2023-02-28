@@ -18,12 +18,23 @@
 <text x="115" y="265" style="font-size:20px;font-family:'Arial'">E</text>
 <text x="290" y="265" style="font-size:20px;font-family:'Arial'">F</text>
 
-<path d="M245 45 L115 45 L115 125" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)"  />
-<path d="M130 135 L130 65 L235 65" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)"  />
+<path d="M 245 50 L 115 50 L115 125" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)"  />
+<path d="M 135 135 L 135 70 L235 70" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)"  />
 
-<path d="M105 185 L105 225" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)"  />
-<path d="M125 235 L125 195" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)"  />
+<path d="M 115 185 L 115 225" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)"  />
+<path d="M 135 235 L 135 195" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)"  />
 
-<path d="M185 150 L235 150" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)"  />
-<path d="M245 170 L190 170" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)"  />
+<path d="M 185 150 L 235 150" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)"  />
+<path d="M 245 170 L 190 170" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)"  />
+
+<path d="M 360 150 L 410 150" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)"  />
+<path d="M 420 170 L 365 170" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)"  />
+
+<path d="M 185 250 L 235 250" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)"  />
+<path d="M 245 270 L 190 270" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)"  />
+
+<path d="M 300 135 L 300 95" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)"  />
+<path d="M 475 135 L 475 60 L365 60" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)"  />
+
+<path d="M 300 235 L 300 210 L160 210 L 160 195" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)"  />
 </svg>
