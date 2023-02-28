@@ -22,7 +22,7 @@ database 2
 </text>
 
 <text x="380" y="60" style="font-size:15px;font-family:'Arial'">
-database 1
+database 2
 </text>
 <rect x="250" y="70" width="330" height="230" style="fill:rgb(213,232,212);stroke:#0000FF;stroke-width:1" />
 <line x1="205" y1="70" x2="248" y2="70" stroke-dasharray="4,4" stroke="#0000FF" stroke-width="1"/>
