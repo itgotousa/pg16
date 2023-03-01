@@ -6,23 +6,106 @@
 
 显示SVG图像测试！
 
+![](d0004.svg)
+
+显示SVG图像测试！
+
+![](d0005.svg)
+
+显示SVG图像测试！
+
+![](d0006.svg)
+
+显示SVG图像测试！
+
+![](d0007.svg)
+
+显示SVG图像测试！
+
+![](d0008.svg)
+
+显示SVG图像测试！
+
+![](d0009.svg)
+
+显示SVG图像测试！
+
+![](d0010.svg)
+
+显示SVG图像测试！
+
+![](d0011.svg)
+
+显示SVG图像测试！
+
+![](d0012.svg)
+
+显示SVG图像测试！
+
 ![](d0013.svg)
 
 显示SVG图像测试！
 
-这是代码区块
-  #include "utils/lsyscache.h"
-  #include "utils/rel.h"
+![](d0014.svg)
 
-PG_MODULE_MAGIC;
+显示SVG图像测试！
 
-PG_FUNCTION_INFO_V1(pg_prewarm);
+![](d0015.svg)
 
-typedef enum
-{
-        PREWARM_PREFETCH,
-        PREWARM_READ,
-        PREWARM_BUFFER
-} PrewarmType;
+显示SVG图像测试！
+
+![](d0016.svg)
+
+显示SVG图像测试！
+
+![](d0017.svg)
+
+显示SVG图像测试！
+
+![](d0018.svg)
+
+显示SVG图像测试！
+
+![](d0019.svg)
+
+显示SVG图像测试！
+
+![](d0020.svg)
+
+显示SVG图像测试！
+
+![](d0021.svg)
+
+显示SVG图像测试！
+
+![](d0022.svg)
+
+显示SVG图像测试！
+
+![](d0023.svg)
+
+显示SVG图像测试！
+
+![](d0024.svg)
+
+显示SVG图像测试！
+
+![](d0025.svg)
+
+显示SVG图像测试！
+
+![](d0026.svg)
+
+显示SVG图像测试！
+
+![](d0027.svg)
+
+显示SVG图像测试！
+
+![](d0028.svg)
+
+
+
+显示SVG图像测试！
 
 
