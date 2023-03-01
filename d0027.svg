@@ -1,0 +1,28 @@
+<svg version="1.1" width="600" height="170" xmlns="http://www.w3.org/2000/svg">
+<defs><marker id="arrowhead" markerWidth="10" markerHeight="7" refX="0" refY="3.5" orient="auto"><polygon points="0 0, 10 3.5, 0 7" /></marker></defs>
+
+<path d="M 40 100 H 560" stroke="#0000FF" stroke-width="1" fill="none" />
+<path d="M 40 150 H 560" stroke="#0000FF" stroke-width="1" fill="none" />
+<rect x="60" y="100" width="480" height="50" style="fill:rgb(218, 232, 252);stroke:#0000FF;stroke-width:1" />
+<path d="M 140 150 V 100" stroke="#0000FF" stroke-width="1" fill="none" />
+<path d="M 200 150 V 100" stroke="#0000FF" stroke-width="1" fill="none" />
+<path d="M 300 150 V 100" stroke="#0000FF" stroke-width="1" fill="none" />
+<path d="M 440 150 V 100" stroke="#0000FF" stroke-width="1" fill="none" />
+<path d="M 480 150 V 100" stroke="#0000FF" stroke-width="1" fill="none" />
+<text x="340" y="127" style="font-size:35px;font-family:'Arial'">......</text>
+
+<path d="M 140 50 V 85" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)"  />
+<path d="M 440 50 V 85" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)"  />
+
+<path d="M 240 70 H 155" stroke="#000000" stroke-width="1" stroke-dasharray="4,4" fill="none" marker-end="url(#arrowhead)"  />
+<path d="M 244 70 H 425" stroke="#000000" stroke-width="1" stroke-dasharray="4,4" fill="none" marker-end="url(#arrowhead)"  />
+
+<text x="210" y="130" style="font-size:15px;font-family:'Arial'">WAL record</text>
+
+<rect x="140" y="100" width="60" height="50" style="fill:rgb(255, 204, 163);stroke:#0000FF;stroke-width:1" />
+<rect x="440" y="100" width="40" height="50" style="fill:rgb(255, 204, 163);stroke:#0000FF;stroke-width:1" />
+
+<text x="105" y="40" style="font-size:15px;font-family:'Arial'">redo point</text>
+<text x="400" y="40" style="font-size:15px;font-family:'Arial'">checkpoint</text>
+
+</svg>
