@@ -1,0 +1,24 @@
+<svg version="1.1" width="600" height="270" xmlns="http://www.w3.org/2000/svg">
+<defs><marker id="arrowhead" markerWidth="10" markerHeight="7" refX="0" refY="3.5" orient="auto"><polygon points="0 0, 10 3.5, 0 7" /></marker></defs>
+
+<ellipse cx="80" cy="60" rx="60" ry="20" style="fill:rgb(248,206,204);stroke:#0000FF;stroke-width:1" />
+<text x="50" y="65" style="font-size:15px;font-family:'Arial'">process 1</text>
+<path d="M 145 60 A 60 60 0 0 1 205 120" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)"  />
+<path d="M 275 60 A 60 60 0 0 0 215 120" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)"  />
+<ellipse cx="340" cy="60" rx="60" ry="20" style="fill:rgb(248,206,204);stroke:#0000FF;stroke-width:1" />
+<text x="310" y="65" style="font-size:15px;font-family:'Arial'">process 2</text>
+
+<rect x="195" y="135" width="30" height="30" style="fill:rgb(255, 204, 163);stroke:#0000FF;stroke-width:1" />
+<text x="200" y="155" style="font-size:15px;font-family:'Arial'">0/1</text>
+<text x="260" y="155" style="font-size:15px;font-family:'Arial'">lock</text>
+<path d="M 255 150 H 240" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)"  />
+
+<path d="M 205 170 A 60 60 0 0 1 145 230" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)"  />
+<path d="M 215 170 A 60 60 0 0 0 275 230" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)"  />
+
+<path d="M 415 230 A 85 85 0 0 0 415 60" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)"  />
+
+<text x="20" y="220" style="font-size:15px;font-family:'Arial'">if return 0, SUCCESS!</text>
+<text x="290" y="220" style="font-size:15px;font-family:'Arial'">if return 1, FAILED!</text>
+<text x="290" y="240" style="font-size:15px;font-family:'Arial'">wait for some time</text>
+</svg>
