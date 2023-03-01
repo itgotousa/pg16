@@ -1,0 +1,43 @@
+<svg version="1.1" width="600" height="340" xmlns="http://www.w3.org/2000/svg">
+<defs><marker id="arrowhead" markerWidth="10" markerHeight="7" refX="0" refY="3.5" orient="auto"><polygon points="0 0, 10 3.5, 0 7" /></marker></defs>
+
+<g id="database" transform="translate(-300, -130)">
+<ellipse cx="500" cy="220" rx="80" ry="20" style="fill:rgb(248,206,204);stroke:#0000FF;stroke-width:1" />
+<polygon points="420,220 420,180 580,180 580,220" style="fill:rgb(248,206,204);stroke:rgb(248,206,204);stroke-width:1" />
+<path d="M 420 180 v 40" stroke="#0000FF" stroke-width="1" fill="none" />
+<path d="M 580 180 v 40" stroke="#0000FF" stroke-width="1" fill="none" />
+<ellipse cx="500" cy="180" rx="80" ry="20" style="fill:rgb(248,206,204);stroke:#0000FF;stroke-width:1" />
+</g>
+
+<path d="M 380 80 h 5 a 10 10 0 0 1 10 10 v 100 a 10 10 0 0 0 10 10 a 10 10 0 0 0 -10 10 v 100 a 10 10 0 0 1 -10 10 h -5" stroke="#000000" stroke-width="1" fill="none" />
+
+<path d="M 185 160 h 30 " stroke="#000000" stroke-width="4" fill="none" />
+<path d="M 200 145 v 30 " stroke="#000000" stroke-width="4" fill="none" />
+
+<rect x="40" y="210" width="300" height="40" style="fill:none;stroke:#0000FF;stroke-width:1" />
+<text x="15" y="233" style="font-size:25px;font-family:'Arial'">...</text>
+<text x="345" y="233" style="font-size:25px;font-family:'Arial'">...</text>
+<text x="155" y="235" style="font-size:15px;font-family:'Arial'">WAL records</text>
+
+<path d="M 20 210 h 340 " stroke="#0000FF" stroke-width="1" fill="none" />
+<path d="M 20 250 h 340 " stroke="#0000FF" stroke-width="1" fill="none" />
+<rect x="80" y="210" width="30" height="40" style="fill:rgb(255, 204, 163);stroke:#0000FF;stroke-width:1" />
+<rect x="280" y="210" width="30" height="40" style="fill:rgb(255, 204, 163);stroke:#0000FF;stroke-width:1" />
+
+<path d="M 80 285 V 265" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)"  />
+<path d="M 280 285 V 265" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)"  />
+<path d="M 86 270 h 180" stroke="#000000" stroke-width="1" fill="none" stroke-dasharray="5,3" marker-end="url(#arrowhead)"  />
+
+<text x="45" y="305" style="font-size:15px;font-family:'Arial'">REDO point</text>
+<text x="230" y="305" style="font-size:15px;font-family:'Arial'">recovery target</text>
+<text x="160" y="55" style="font-size:15px;font-family:'Arial'">base backup</text>
+<text x="405" y="145" style="font-size:15px;font-family:'Arial'">recovered database cluster</text>
+
+<g id="database">
+<ellipse cx="500" cy="220" rx="80" ry="20" style="fill:rgb(248,206,204);stroke:#0000FF;stroke-width:1" />
+<polygon points="420,220 420,180 580,180 580,220" style="fill:rgb(248,206,204);stroke:rgb(248,206,204);stroke-width:1" />
+<path d="M 420 180 v 40" stroke="#0000FF" stroke-width="1" fill="none" />
+<path d="M 580 180 v 40" stroke="#0000FF" stroke-width="1" fill="none" />
+<ellipse cx="500" cy="180" rx="80" ry="20" style="fill:rgb(248,206,204);stroke:#0000FF;stroke-width:1" />
+</g>
+</svg>
