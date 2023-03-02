@@ -22,8 +22,8 @@
 ...
 </text>
 
-<text x="200" y="30" style="font-size:20px;font-family:'Arial'">
-logical file (4GB)
+<text x="145" y="30" style="font-size:20px;font-family:'Arial'">
+logical file (4GB bytes)
 </text>
 
 <text x="30" y="85" style="font-size:15px;font-family:'Arial'">
