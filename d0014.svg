@@ -1,13 +1,6 @@
 <svg version="1.1" width="600" height="200" xmlns="http://www.w3.org/2000/svg">
 <defs><marker id="arrowhead" markerWidth="10" markerHeight="7" refX="0" refY="3.5" orient="auto"><polygon points="0 0, 10 3.5, 0 7" /></marker></defs>
 
-<!--
-<line x1="1" y1="1" x2="600" y2="1" stroke="#0000FF" stroke-width="1"/>
-<line x1="1" y1="1" x2="1" y2="400" stroke="#0000FF" stroke-width="1"/>
-<line x1="1" y1="400" x2="600" y2="400" stroke="#0000FF" stroke-width="1"/>
-<line x1="600" y1="1" x2="600" y2="400" stroke="#0000FF" stroke-width="1"/>
--->
-
 <line x1="20" y1="20" x2="20" y2="80" stroke="#000000" stroke-dasharray="5,3" stroke-width="1"/>
 <line x1="580" y1="20" x2="580" y2="80" stroke="#000000" stroke-dasharray="5,3" stroke-width="1"/>
 
@@ -26,16 +19,21 @@
 <line x1="380" y1="80" x2="380" y2="120" stroke="#0000FF" stroke-width="1"/>
 <line x1="340" y1="80" x2="340" y2="120" stroke="#0000FF" stroke-width="1"/>
 
-<line x1="40" y1="190" x2="40" y2="133" stroke="#000" stroke-width="1" marker-end="url(#arrowhead)" />
-<line x1="360" y1="190" x2="360" y2="133" stroke="#000" stroke-width="1" marker-end="url(#arrowhead)" />
-<line x1="356" y1="160" x2="53" y2="160" stroke="#000" stroke-dasharray="5,3" stroke-width="1" marker-end="url(#arrowhead)" />
+<path d="M 20 190 V 133 " stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)" />
+<path d="M 340 190 V 133 " stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)" />
+
+<line x1="336" y1="160" x2="33" y2="160" stroke="#000" stroke-dasharray="5,3" stroke-width="1" marker-end="url(#arrowhead)" />
 
 <text x="260" y="55" style="font-size:15px;font-family:'Arial'">
 WAL space
 </text>
 
-<text x="160" y="150" style="font-size:15px;font-family:'Arial'">
-byte offset
+<text x="120" y="180" style="font-size:15px;font-family:'Arial'">
+byte offset (LSN)
 </text>
+<text x="35" y="137" style="font-size:15px;font-family:'Arial'">0</text>
+<text x="75" y="137" style="font-size:15px;font-family:'Arial'">1</text>
+<text x="115" y="137" style="font-size:15px;font-family:'Arial'">2</text>
+<text x="155" y="137" style="font-size:15px;font-family:'Arial'">3</text>
 
 </svg>
