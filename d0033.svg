@@ -4,6 +4,9 @@
 
 <text x="540" y="30" style="font-size:15px;font-family:'Arial'">time</text>
 <path d="M 20 40 h 560 " stroke="#0000FF" stroke-width="1" fill="none" marker-end="url(#arrowhead)" />
+<path d="M 65 10 V 25 " stroke="#0000FF" stroke-width="1" fill="none" marker-end="url(#arrowhead)" />
+<path d="M 415 10 V 25 " stroke="#0000FF" stroke-width="1" fill="none" marker-end="url(#arrowhead)" />
+<path d="M 70 20 H 400 " stroke="#0000FF" stroke-width="1" fill="none" stroke-dasharray="5,3" marker-end="url(#arrowhead)" />
 
 <text x="60" y="70" style="font-size:25px;font-family:'Arial'">6</text>
 <text x="128" y="70" style="font-size:25px;font-family:'Arial'">9</text>
@@ -29,4 +32,5 @@
 <text x="370" y="135" style="font-size:18px;font-family:'Arial'">-4</text>
 <text x="440" y="135" style="font-size:18px;font-family:'Arial'">-11</text>
 <text x="510" y="135" style="font-size:18px;font-family:'Arial'">+10</text>
+
 </svg>
