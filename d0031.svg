@@ -1,0 +1,48 @@
+<svg version="1.1" width="600" height="400" xmlns="http://www.w3.org/2000/svg">
+<defs><marker id="arrowhead" markerWidth="10" markerHeight="7" refX="0" refY="3.5" orient="auto"><polygon points="0 0, 10 3.5, 0 7" /></marker></defs>
+
+
+<text x="20" y="30" style="font-size:15px;font-family:'Arial'">Checkpointer process</text>
+<path d="M 20 40 h 560 " stroke="#0000FF" stroke-width="1" fill="none" marker-end="url(#arrowhead)" />
+<text x="20" y="90" style="font-size:15px;font-family:'Arial'">shared buffer pool</text>
+<path d="M 20 100 h 560 " stroke="#0000FF" stroke-width="1" fill="none" marker-end="url(#arrowhead)" />
+<text x="20" y="150" style="font-size:15px;font-family:'Arial'">WAL buffer</text>
+<path d="M 20 160 h 560 " stroke="#0000FF" stroke-width="1" fill="none" marker-end="url(#arrowhead)" />
+<path d="M 5 200 h 590 " stroke="#0000FF" stroke-width="1" fill="none" stroke-dasharray="5,3" />
+ 
+<text x="20" y="250" style="font-size:15px;font-family:'Arial'">WAL segment file</text>
+<path d="M 20 260 h 560 " stroke="#0000FF" stroke-width="1" fill="none" marker-end="url(#arrowhead)" /> 
+<text x="20" y="310" style="font-size:15px;font-family:'Arial'">datafile</text>
+<path d="M 20 320 h 560 " stroke="#0000FF" stroke-width="1" fill="none" marker-end="url(#arrowhead)" />
+<text x="20" y="370" style="font-size:15px;font-family:'Arial'">control file</text>
+<path d="M 20 380 h 560 " stroke="#0000FF" stroke-width="1" fill="none" marker-end="url(#arrowhead)" />
+
+<path d="M 200 10 V 25" stroke="#0000FF" stroke-width="1" fill="none" marker-end="url(#arrowhead)" />
+<path d="M 200 33 V 320" stroke="#0000FF" stroke-width="1" fill="none" stroke-dasharray="3,3" />
+<text x="210" y="30" style="font-size:15px;font-family:'Arial'">(1)</text>
+
+<text x="270" y="30" style="font-size:15px;font-family:'Arial'">(2)</text>
+<text x="450" y="30" style="font-size:15px;font-family:'Arial'">(4)</text>
+<text x="550" y="30" style="font-size:15px;font-family:'Arial'">(5)</text>
+
+<path d="M 280 40 V 305" stroke="#0000FF" stroke-width="1" fill="none" marker-end="url(#arrowhead)" />
+<path d="M 300 100 V 305" stroke="#0000FF" stroke-width="1" fill="none" marker-end="url(#arrowhead)" />
+<path d="M 320 100 V 305" stroke="#0000FF" stroke-width="1" fill="none" marker-end="url(#arrowhead)" />
+<path d="M 340 100 V 305" stroke="#0000FF" stroke-width="1" fill="none" marker-end="url(#arrowhead)" />
+<path d="M 420 100 V 305" stroke="#0000FF" stroke-width="1" fill="none" marker-end="url(#arrowhead)" />
+<path d="M 440 100 V 305" stroke="#0000FF" stroke-width="1" fill="none" marker-end="url(#arrowhead)" />
+<path d="M 460 40 V 245" stroke="#0000FF" stroke-width="1" fill="none" marker-end="url(#arrowhead)" />
+<path d="M 560 40 V 365" stroke="#0000FF" stroke-width="1" fill="none" marker-end="url(#arrowhead)" />
+
+<path d="M 280 325 v 5 a 10 10 0 0 0 10 10 h 60 a 10 10 0 0 1 10 10 a 10 10 0 0 1 10 -10 h 60 a 10 10 0 0 0 10 -10 v -5 " stroke="#000000" stroke-width="1" fill="none"  />
+<text x="350" y="365" style="font-size:15px;font-family:'Arial'">(3)</text>
+
+<rect x="460" y="260" width="90" height="30" style="fill:rgb(255, 204, 163);stroke:#0000FF;stroke-width:1" />
+<text x="470" y="280" style="font-size:15px;font-family:'Arial'">checkpoint</text>
+<text x="155" y="280" style="font-size:15px;font-family:'Arial'">REDO point</text>
+<circle cx="200" cy="260" r="5" fill="#FF0000" />
+
+<path d="M 505 255 v -20 H 250 L 215 250 " stroke="#0000FF" stroke-width="1" fill="none" stroke-dasharray="5,3" marker-end="url(#arrowhead)" />
+
+<text x="360" y="130" style="font-size:25px;font-family:'Arial'">......</text>
+</svg>
