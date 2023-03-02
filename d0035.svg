@@ -1,0 +1,20 @@
+<svg version="1.1" width="600" height="140" xmlns="http://www.w3.org/2000/svg">
+<defs><marker id="arrowhead" markerWidth="10" markerHeight="7" refX="0" refY="3.5" orient="auto"><polygon points="0 0, 10 3.5, 0 7" /></marker></defs>
+
+<path d="M 20 80 H 580 " stroke="#0000FF" stroke-width="1" fill="none" />
+<path d="M 20 120 H 580 " stroke="#0000FF" stroke-width="1" fill="none" />
+<rect x="60" y="80" width="480" height="40" style="fill:none;stroke:#0000FF;stroke-width:1" />
+<rect x="60" y="80" width="80" height="40" style="fill:#DAE8FC;stroke:#0000FF;stroke-width:1" />
+<rect x="140" y="80" width="40" height="40" style="fill:#DAE8FC;stroke:#0000FF;stroke-width:1" />
+<rect x="180" y="80" width="140" height="40" style="fill:#DAE8FC;stroke:#0000FF;stroke-width:1" />
+<rect x="320" y="80" width="60" height="40" style="fill:#DAE8FC;stroke:#0000FF;stroke-width:1" />
+<text x="30" y="102" style="font-size:25px;font-family:'Arial'">...</text>
+<text x="550" y="102" style="font-size:25px;font-family:'Arial'">...</text>
+<text x="210" y="105" style="font-size:15px;font-family:'Arial'">WAL record</text>
+
+<path d="M 380 20 V 65 " stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)"/>
+<path d="M 375 50 h -60 " stroke="#000000" stroke-width="1" fill="none" stroke-dasharray="5,3" marker-end="url(#arrowhead)"/>
+<path d="M 385 50 h 60 " stroke="#000000" stroke-width="1" fill="none" stroke-dasharray="5,3" marker-end="url(#arrowhead)"/>
+<text x="265" y="54" style="font-size:15px;font-family:'Arial'">after</text>
+<text x="465" y="54" style="font-size:15px;font-family:'Arial'">before</text>
+</svg>
