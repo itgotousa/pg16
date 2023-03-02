@@ -1,0 +1,25 @@
+<svg version="1.1" width="600" height="370" xmlns="http://www.w3.org/2000/svg">
+<defs><marker id="arrowhead" markerWidth="10" markerHeight="7" refX="0" refY="3.5" orient="auto"><polygon points="0 0, 10 3.5, 0 7" /></marker></defs>
+
+
+<path d="M 20 60 v 120 h 120 v -160 h -80 l -40 40 " stroke="#0000FF" stroke-width="1" fill="rgb(248,206,204)" />
+
+<path d="M 20 240 H 580 " stroke="#0000FF" stroke-width="1" fill="none" />
+<path d="M 20 300 H 580 " stroke="#0000FF" stroke-width="1" fill="none" />
+<rect x="60" y="240" width="480" height="60" style="fill:#DAE8FC;stroke:#0000FF;stroke-width:1" />
+<rect x="100" y="240" width="100" height="60" style="fill:#DAE8FC;stroke:#0000FF;stroke-width:1" />
+<rect x="440" y="240" width="40" height="60" style="fill:rgb(248,206,204);stroke:#0000FF;stroke-width:1" />
+
+<path d="M 450 238 a 180 40 0 0 0 -340 -8" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)" />
+<path d="M 145 100 H 470 V 225" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)" />
+
+<text x="150" y="45" style="font-size:15px;font-family:'Courier New'">$PGDATA/global/pg_control</text>
+<text x="60" y="350" style="font-size:15px;font-family:'Arial'">REDO point</text>
+<text x="400" y="350" style="font-size:15px;font-family:'Arial'">CheckPoint XLog record</text>
+<path d="M 100 330 V 315" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)" />
+<path d="M 460 330 V 315" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)" />
+
+<text x="30" y="270" style="font-size:25px;font-family:'Arial'">...</text>
+<text x="550" y="270" style="font-size:25px;font-family:'Arial'">...</text>
+<text x="280" y="275" style="font-size:15px;font-family:'Arial'">WAL record</text>
+</svg>
