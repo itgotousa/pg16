@@ -13,9 +13,9 @@
 <path d="M 500 30 V 85 " stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)"/>
 <path d="M 360 70 V 85 " stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)"/>
 
-<text x="40" y="20" style="font-size:15px;font-family:'Arial'">Start CheckPoint n</text>
-<text x="430" y="20" style="font-size:15px;font-family:'Arial'">Start CheckPoint n+1</text>
-<text x="280" y="65" style="font-size:15px;font-family:'Arial'">Complete CheckPoint n</text>
+<text x="40" y="20" style="font-size:15px;font-family:'Arial'">start CheckPoint n</text>
+<text x="430" y="20" style="font-size:15px;font-family:'Arial'">start CheckPoint n+1</text>
+<text x="280" y="65" style="font-size:15px;font-family:'Arial'">complete CheckPoint n</text>
 
 <path d="M 300 40 H 485 " stroke="#000000" stroke-width="1" fill="none" stroke-dasharray="5,3" marker-end="url(#arrowhead)"/>
 <path d="M 297 40 H 115 " stroke="#000000" stroke-width="1" fill="none" stroke-dasharray="5,3" marker-end="url(#arrowhead)"/>
