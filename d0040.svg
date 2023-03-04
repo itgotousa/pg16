@@ -1,0 +1,44 @@
+<svg version="1.1" width="600" height="480" xmlns="http://www.w3.org/2000/svg">
+<defs><marker id="arrowhead" markerWidth="10" markerHeight="7" refX="0" refY="3.5" orient="auto"><polygon points="0 0, 10 3.5, 0 7" /></marker></defs>
+
+<path d="M 10 60 h 87 " stroke="#0000FF" stroke-width="1" stroke-dasharray="3,3" fill="none"/>
+<path d="M 10 460 h 87 " stroke="#0000FF" stroke-width="1" stroke-dasharray="3,3" fill="none"/>
+<rect x="100" y="60" width="300" height="400" style="fill:none;stroke:#0000FF;stroke-width:1" />
+<path d="M 403 60 h 187 " stroke="#0000FF" stroke-width="1" stroke-dasharray="3,3" fill="none"/>
+<path d="M 403 460 h 187 " stroke="#0000FF" stroke-width="1" stroke-dasharray="3,3" fill="none"/>
+
+<path d="M 20 240 V 75" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)" />
+<path d="M 20 270 V 445" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)" />
+<text x="10" y="260" style="font-size:15px;font-family:'Arial'">8Kb</text>
+
+<text x="200" y="80" style="font-size:15px;font-family:'Courier New'">MemoryContextData</text>
+<path d="M 100 120 h 300 " stroke="#0000FF" stroke-width="1" fill="none"/>
+<path d="M 100 200 h 300 " stroke="#0000FF" stroke-width="1" fill="none"/>
+<path d="M 100 270 h 300 " stroke="#0000FF" stroke-width="1" fill="none"/>
+
+<text x="460" y="140" style="font-size:15px;font-family:'Courier New'">AllocSetContext</text>
+<path d="M 403 200 h 187 " stroke="#0000FF" stroke-width="1" stroke-dasharray="3,3" fill="none"/>
+
+<path d="M 580 125 V 75 " stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)"/>
+<path d="M 580 145 V 185 " stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)"/>
+
+<path d="M 403 270 h 187 " stroke="#0000FF" stroke-width="1" stroke-dasharray="3,3" fill="none"/>
+<text x="470" y="240" style="font-size:15px;font-family:'Courier New'">AllocBlockData</text>
+<path d="M 580 225 V 215 " stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)"/>
+<path d="M 580 245 V 255 " stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)"/>
+
+<text x="500" y="370" style="font-size:15px;font-family:'Arial'"> real data area</text>
+<path d="M 580 355 V 285 " stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)"/>
+<path d="M 580 380 V 445 " stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)"/>
+
+<text x="130" y="160" style="font-size:15px;font-family:'Courier New'">blocks</text>
+<text x="130" y="180" style="font-size:15px;font-family:'Courier New'">keeper</text>
+
+<text x="130" y="220" style="font-size:15px;font-family:'Courier New'">aset</text>
+<text x="130" y="250" style="font-size:15px;font-family:'Courier New'">freeptr</text>
+<text x="310" y="250" style="font-size:15px;font-family:'Courier New'">endptr</text>
+
+<path d="M 125 245 h -60 V 270 H 85 " stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)"/>
+
+<path d="M 370 245 H 415 A 20 50 0 0 1 415 460 " stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)"/>
+</svg>
