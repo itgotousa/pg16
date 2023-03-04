@@ -5,9 +5,9 @@
 <text x="60" y="45" style="font-size:13px;font-family:'Arial'">INSERT INTO mx VALUES('AAA');</text>
 <text x="60" y="65" style="font-size:13px;font-family:'Arial'">COMMIT;</text>
 
-<text x="380" y="25" style="font-size:13px;font-family:'Arial'">BEGIN;</text>
-<text x="380" y="45" style="font-size:13px;font-family:'Arial'">INSERT INTO mx VALUES('BBB');</text>
-<text x="380" y="65" style="font-size:13px;font-family:'Arial'">COMMIT;</text>
+<text x="390" y="25" style="font-size:13px;font-family:'Arial'">BEGIN;</text>
+<text x="390" y="45" style="font-size:13px;font-family:'Arial'">INSERT INTO mx VALUES('BBB');</text>
+<text x="390" y="65" style="font-size:13px;font-family:'Arial'">COMMIT;</text>
 
 <path d="M 20 100 H 580 " stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)" />
 <text x="560" y="90" style="font-size:15px;font-family:'Arial'">time</text>
