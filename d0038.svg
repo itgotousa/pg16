@@ -1,17 +1,19 @@
-<svg version="1.1" width="600" height="380" xmlns="http://www.w3.org/2000/svg">
+<svg version="1.1" width="600" height="390" xmlns="http://www.w3.org/2000/svg">
 <defs><marker id="arrowhead" markerWidth="10" markerHeight="7" refX="0" refY="3.5" orient="auto"><polygon points="0 0, 10 3.5, 0 7" /></marker></defs>
 
-<text x="60" y="25" style="font-size:15px;font-family:'Arial'">BEGIN;</text>
-<text x="60" y="45" style="font-size:15px;font-family:'Arial'">INSERT INTO t VALUES('AAA');</text>
-<text x="60" y="65" style="font-size:15px;font-family:'Arial'">COMMIT;</text>
+<text x="60" y="25" style="font-size:13px;font-family:'Arial'">BEGIN;</text>
+<text x="60" y="45" style="font-size:13px;font-family:'Arial'">INSERT INTO t VALUES('AAA');</text>
+<text x="60" y="65" style="font-size:13px;font-family:'Arial'">COMMIT;</text>
 
-<text x="360" y="25" style="font-size:15px;font-family:'Arial'">BEGIN;</text>
-<text x="360" y="45" style="font-size:15px;font-family:'Arial'">INSERT INTO t VALUES('BBB');</text>
-<text x="360" y="65" style="font-size:15px;font-family:'Arial'">COMMIT;</text>
+<text x="400" y="25" style="font-size:13px;font-family:'Arial'">BEGIN;</text>
+<text x="400" y="45" style="font-size:13px;font-family:'Arial'">INSERT INTO t VALUES('BBB');</text>
+<text x="400" y="65" style="font-size:13px;font-family:'Arial'">COMMIT;</text>
 
 <path d="M 20 100 H 580 " stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)" />
-<path d="M 60 70 V 85 " stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)" />
-<path d="M 420 70 V 85 " stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)" />
+<text x="560" y="90" style="font-size:15px;font-family:'Arial'">time</text>
+
+<path d="M 100 70 V 85 " stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)" />
+<path d="M 430 70 V 85 " stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)" />
 
 <path d="M 185 130 h 40 " stroke="#000000" stroke-width="1" fill="none" stroke-dasharray="3,3" marker-end="url(#arrowhead)" />
 <path d="M 365 130 h 40 " stroke="#000000" stroke-width="1" fill="none" stroke-dasharray="3,3" marker-end="url(#arrowhead)" />
@@ -43,10 +45,10 @@
 <text x="25" y="65" style="font-size:15px;font-family:'Arial'">BBB</text>
 </g>
 
-<text x="10" y="190" style="font-size:15px;font-family:'Arial'">shared buffer pool</text>
+<text x="20" y="190" style="font-size:15px;font-family:'Arial'">shared buffer pool</text>
 <path d="M 20 200 H 580 " stroke="#000000" stroke-width="1" fill="none" stroke-dasharray="3,3" />
 
-<text x="10" y="260" style="font-size:15px;font-family:'Arial'">WAL segment file</text>
+<text x="20" y="260" style="font-size:15px;font-family:'Arial'">WAL segment file</text>
 <path d="M 20 270 H 580 " stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)" />
 
 <g>
@@ -81,4 +83,7 @@
 <rect x="60" y="50" width="40" height="20" style="fill:rgb(248,206,204);stroke:#0000FF;stroke-width:1" />
 <text x="65" y="65" style="font-size:15px;font-family:'Arial'">AAA</text>
 </g>
+
+<path d="M 20 375 H 580 " stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)" />
+<text x="20" y="365" style="font-size:15px;font-family:'Arial'">data file</text>
 </svg>
