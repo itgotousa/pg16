@@ -67,10 +67,10 @@
 <path d="M 270 245 v 20 " stroke="#000000" stroke-width="1" fill="none" />
 </g>
 
-<path d="M 200 305 v -20 " stroke="#000000" stroke-width="1" fill="none" stroke-dasharray="3,3" marker-end="url(#arrowhead)" />
+<path d="M 200 305 v -20 " stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)" />
 <text x="180" y="325" style="font-size:15px;font-family:'Arial'">LSN 1</text>
 
-<path d="M 450 220 H 400 V 230" stroke="#000000" stroke-width="1" fill="none" stroke-dasharray="3,3" marker-end="url(#arrowhead)" />
+<path d="M 450 220 H 400 V 230" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)" />
 <text x="455" y="225" style="font-size:15px;font-family:'Arial'">LSN 2</text>
 
 <path d="M 350 175 V 295" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)" />
@@ -86,4 +86,5 @@
 
 <path d="M 20 375 H 580 " stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)" />
 <text x="20" y="365" style="font-size:15px;font-family:'Arial'">data file</text>
+
 </svg>
