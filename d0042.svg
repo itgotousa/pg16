@@ -1,0 +1,63 @@
+<svg version="1.1" width="600" height="500" xmlns="http://www.w3.org/2000/svg">
+<defs><marker id="arrowhead" markerWidth="10" markerHeight="7" refX="0" refY="3.5" orient="auto"><polygon points="0 0, 10 3.5, 0 7" /></marker></defs>
+
+<text x="10" y="30" style="font-size:15px;font-family:'Arial'">NULL</text>
+<path d="M 35 60 h -10 v -15" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)" />
+
+<rect x="520" y="40" width="40" height="40" style="fill:none;stroke:#0000FF;stroke-width:1" />
+<rect x="520" y="50" width="40" height="30" style="fill:rgb(248,206,204);stroke:#0000FF;stroke-width:1" />
+<path d="M 565 60 h 10 v -15" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)" />
+<text x="560" y="30" style="font-size:15px;font-family:'Arial'">NULL</text>
+
+<path d="M 515 60 h -100" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)" />
+<path d="M 355 60 h -100" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)" />
+<path d="M 195 60 h -100" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)" />
+
+<path d="M 85 70 h 100" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)" />
+<path d="M 245 70 h 100" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)" />
+<path d="M 405 70 h 100" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)" />
+
+<rect x="360" y="40" width="40" height="80" style="fill:rgb(248,206,204);stroke:#0000FF;stroke-width:1" />
+
+<rect x="200" y="40" width="40" height="160" style="fill:rgb(248,206,204);stroke:#0000FF;stroke-width:1" />
+
+<rect x="40" y="40" width="40" height="320" style="fill:none;stroke:#0000FF;stroke-width:1" />
+<rect x="40" y="40" width="40" height="220" style="fill:rgb(248,206,204);stroke:#0000FF;stroke-width:1" />
+
+<text x="55" y="60" style="font-size:15px;font-family:'Arial'">1</text>
+<path d="M 40 70 h 40" stroke="#0000FF" stroke-width="1" fill="none"/>
+
+<text x="215" y="60" style="font-size:15px;font-family:'Arial'">2</text>
+<path d="M 200 70 h 40" stroke="#0000FF" stroke-width="1" fill="none"/>
+
+<text x="375" y="60" style="font-size:15px;font-family:'Arial'">3</text>
+<path d="M 360 70 h 40" stroke="#0000FF" stroke-width="1" fill="none"/>
+
+<text x="535" y="70" style="font-size:15px;font-family:'Arial'">4</text>
+
+<rect x="360" y="240" width="200" height="120" style="fill:none;stroke:#0000FF;stroke-width:1" />
+<path d="M 360 250 H 150 V 40 H 95" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)" />
+
+<rect x="360" y="260" width="20" height="80" style="fill:rgb(248,206,204);stroke:#0000FF;stroke-width:1" />
+<path d="M 360 280 h 20" stroke="#0000FF" stroke-width="1" fill="none"/>
+<path d="M 360 300 h 20" stroke="#0000FF" stroke-width="1" fill="none"/>
+<path d="M 360 320 h 20" stroke="#0000FF" stroke-width="1" fill="none"/>
+
+<path d="M 360 270 h -50" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)" />
+<path d="M 280 270 h -50" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)" />
+<path d="M 200 270 h -50" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)" />
+
+<rect x="280" y="260" width="20" height="20" style="fill:none;stroke:#0000FF;stroke-width:1" />
+<rect x="200" y="260" width="20" height="20" style="fill:none;stroke:#0000FF;stroke-width:1" />
+<rect x="120" y="260" width="20" height="20" style="fill:none;stroke:#0000FF;stroke-width:1" />
+
+<rect x="160" y="320" width="60" height="20" style="fill:none;stroke:#0000FF;stroke-width:1" />
+<rect x="260" y="320" width="60" height="20" style="fill:none;stroke:#0000FF;stroke-width:1" />
+
+<path d="M 360 330 h -30" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)" />
+<path d="M 260 330 h -30" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)" />
+
+<path d="M 515 45 A 55 200 0 0 0 460 225" stroke="#000000" stroke-dasharray="3,3" stroke-width="1" fill="none" marker-end="url(#arrowhead)" />
+
+<text x="390" y="375" style="font-size:15px;font-family:'Courier New'">AllocSetContext</text>
+</svg>
