@@ -24,16 +24,16 @@
 <rect x="40" y="40" width="40" height="320" style="fill:none;stroke:#0000FF;stroke-width:1" />
 <rect x="40" y="40" width="40" height="220" style="fill:rgb(248,206,204);stroke:#0000FF;stroke-width:1" />
 
-<text x="55" y="60" style="font-size:15px;font-family:'Arial'">1</text>
+<text x="55" y="60" style="font-size:15px;font-family:'Arial'">4</text>
 <path d="M 40 70 h 40" stroke="#0000FF" stroke-width="1" fill="none"/>
 
-<text x="215" y="60" style="font-size:15px;font-family:'Arial'">2</text>
+<text x="215" y="60" style="font-size:15px;font-family:'Arial'">3</text>
 <path d="M 200 70 h 40" stroke="#0000FF" stroke-width="1" fill="none"/>
 
-<text x="375" y="60" style="font-size:15px;font-family:'Arial'">3</text>
+<text x="375" y="60" style="font-size:15px;font-family:'Arial'">2</text>
 <path d="M 360 70 h 40" stroke="#0000FF" stroke-width="1" fill="none"/>
 
-<text x="535" y="70" style="font-size:15px;font-family:'Arial'">4</text>
+<text x="535" y="70" style="font-size:15px;font-family:'Arial'">1</text>
 
 <rect x="360" y="240" width="200" height="120" style="fill:none;stroke:#0000FF;stroke-width:1" />
 <path d="M 360 250 H 150 V 40 H 95" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)" />
