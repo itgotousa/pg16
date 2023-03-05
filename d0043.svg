@@ -1,0 +1,53 @@
+<svg version="1.1" width="600" height="280" xmlns="http://www.w3.org/2000/svg">
+<defs><marker id="arrowhead" markerWidth="10" markerHeight="7" refX="0" refY="3.5" orient="auto"><polygon points="0 0, 10 3.5, 0 7" /></marker></defs>
+
+<g transform="translate(20, 20)">
+<ellipse cx="81" cy="61" rx="80" ry="20" style="fill:rgb(248,206,204);stroke:#0000FF;stroke-width:1" />
+<polygon points="1,61 1,21 161,21 161,61" style="fill:rgb(248,206,204);stroke:rgb(248,206,204);stroke-width:1" />
+<path d="M 1 21 v 40" stroke="#0000FF" stroke-width="1" fill="none" />
+<path d="M 161 21 v 40" stroke="#0000FF" stroke-width="1" fill="none" />
+<ellipse cx="81" cy="21" rx="80" ry="20" style="fill:rgb(248,206,204);stroke:#0000FF;stroke-width:1" />
+</g>
+
+<g transform="translate(320, 20)">
+<ellipse cx="81" cy="61" rx="80" ry="20" style="fill:rgb(248,206,204);stroke:#0000FF;stroke-width:1" />
+<polygon points="1,61 1,21 161,21 161,61" style="fill:rgb(248,206,204);stroke:rgb(248,206,204);stroke-width:1" />
+<path d="M 1 21 v 40" stroke="#0000FF" stroke-width="1" fill="none" />
+<path d="M 161 21 v 40" stroke="#0000FF" stroke-width="1" fill="none" />
+<ellipse cx="81" cy="21" rx="80" ry="20" style="fill:rgb(248,206,204);stroke:#0000FF;stroke-width:1" />
+</g>
+<text x="60" y="80" style="font-size:15px;font-family:'Arial'">base backup</text>
+<text x="340" y="80" style="font-size:15px;font-family:'Arial'">current database</text>
+
+<path d="M 100 105 V 185" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)" />
+<path d="M 400 105 V 185" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)" />
+<path d="M 100 200 v 40" stroke="#0000FF" stroke-width="1" fill="none" />
+<path d="M 400 200 v 40" stroke="#0000FF" stroke-width="1" fill="none" />
+
+<path d="M 20 200 h 560" stroke="#0000FF" stroke-width="1" fill="none" />
+<path d="M 20 240 h 560" stroke="#0000FF" stroke-width="1" fill="none" />
+<rect x="40" y="200" width="520" height="40" style="fill:none;stroke:#0000FF;stroke-width:1" />
+<text x="15" y="220" style="font-size:25px;font-family:'Arial'">...</text>
+<text x="565" y="220" style="font-size:25px;font-family:'Arial'">...</text>
+
+<text x="470" y="160" style="font-size:15px;font-family:'Arial'">checkpoint</text>
+<path d="M 510 170 V 185" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)" />
+
+<text x="265" y="260" style="font-size:15px;font-family:'Arial'">WAL file</text>
+
+<rect x="140" y="200" width="20" height="40" style="fill:rgb(248,206,204);stroke:#0000FF;stroke-width:1" />
+<rect x="240" y="200" width="20" height="40" style="fill:rgb(248,206,204);stroke:#0000FF;stroke-width:1" />
+<rect x="310" y="200" width="20" height="40" style="fill:rgb(248,206,204);stroke:#0000FF;stroke-width:1" />
+<rect x="500" y="200" width="20" height="40" style="fill:rgb(248,206,204);stroke:#0000FF;stroke-width:1" />
+
+<path d="M 150 245 v 10 a 25 25 0 0 1 -50 0" stroke="#000000" stroke-width="1" stroke-dasharray="3,3" fill="none" marker-end="url(#arrowhead)" />
+
+<path d="M 510 245 v 10 a 55 25 0 0 1 -110 0" stroke="#000000" stroke-width="1" stroke-dasharray="3,3" fill="none" marker-end="url(#arrowhead)" />
+
+<text x="55" y="180" style="font-size:15px;font-family:'Arial'">REDO point A</text>
+<text x="355" y="180" style="font-size:15px;font-family:'Arial'">REDO point B</text>
+
+<path d="M 250 140 H 115" stroke="#000000" stroke-width="1" stroke-dasharray="3,3" fill="none" marker-end="url(#arrowhead)" />
+
+<path d="M 253 140 H 385" stroke="#000000" stroke-width="1" stroke-dasharray="3,3" fill="none" marker-end="url(#arrowhead)" />
+</svg>
