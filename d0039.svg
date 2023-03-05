@@ -3,15 +3,19 @@
 
 <rect x="50" y="40" width="500" height="40" style="fill:none;stroke:#0000FF;stroke-width:1" />
 
+<path d="M 300 20 H 250 L 220 32" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)" />
+<text x="310" y="25" style="font-size:15px;font-family:'Arial'">p (return to caller)</text>
+
 <text x="70" y="30" style="font-size:15px;font-family:'Courier New'">size</text>
 <text x="150" y="30" style="font-size:15px;font-family:'Courier New'">aset</text>
-<text x="360" y="30" style="font-size:15px;font-family:'Arial'">real data</text>
 
 <path d="M 130 40 v 40 " stroke="#0000FF" stroke-width="1" fill="none"/>
 <text x="65" y="65" style="alignment-baseline='center';font-size:15px;font-family:'Arial'">8 bytes</text>
 <path d="M 210 40 v 40 " stroke="#0000FF" stroke-width="1" fill="none"/>
 <text x="145" y="65" style="alignment-baseline='center';font-size:15px;font-family:'Arial'">8 bytes</text>
 <rect x="210" y="40" width="340" height="40" style="fill:rgb(248,206,204);stroke:#0000FF;stroke-width:1" />
+
+<text x="360" y="65" style="font-size:15px;font-family:'Arial'">real data</text>
 
 <path d="M 210 85 v 5 a 10 10 0 0 0 10 10 h 150 a 10 10 0 0 1 10 10 a 10 10 0 0 1 10 -10 h 150 a 10 10 0 0 0 10 -10 v -5" stroke="#0000FF" stroke-width="1" fill="none"/>
 
