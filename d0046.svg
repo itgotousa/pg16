@@ -1,0 +1,82 @@
+<svg version="1.1" width="600" height="360" xmlns="http://www.w3.org/2000/svg">
+<defs><marker id="arrowhead" markerWidth="10" markerHeight="7" refX="0" refY="3.5" orient="auto"><polygon points="0 0, 10 3.5, 0 7" /></marker></defs>
+
+<g transform="translate(40, 40)">
+<ellipse cx="51" cy="106" rx="50" ry="15" style="fill:#DAE8FC;stroke:#0000FF;stroke-width:1" />
+<polygon points="1,106 1,16 101,16 101,106" style="fill:#DAE8FC;stroke:#DAE8FC;stroke-width:1" />
+<path d="M 1 15 v 90" stroke="#0000FF" stroke-width="1" fill="none" />
+<path d="M 101 16 v 90" stroke="#0000FF" stroke-width="1" fill="none" />
+<ellipse cx="51" cy="16" rx="50" ry="15" style="fill:#DAE8FC;stroke:#0000FF;stroke-width:1" />
+<text x="25" y="60" style="font-size:15px;font-family:'Arial'">primary</text>
+<text x="20" y="80" style="font-size:15px;font-family:'Arial'">database</text>
+</g>
+
+<g transform="translate(460, 40)">
+<ellipse cx="51" cy="106" rx="50" ry="15" style="fill:#DAE8FC;stroke:#0000FF;stroke-width:1" />
+<polygon points="1,106 1,16 101,16 101,106" style="fill:#DAE8FC;stroke:#DAE8FC;stroke-width:1" />
+<path d="M 1 15 v 90" stroke="#0000FF" stroke-width="1" fill="none" />
+<path d="M 101 16 v 90" stroke="#0000FF" stroke-width="1" fill="none" />
+<ellipse cx="51" cy="16" rx="50" ry="15" style="fill:#DAE8FC;stroke:#0000FF;stroke-width:1" />
+<text x="23" y="60" style="font-size:15px;font-family:'Arial'">standby</text>
+<text x="20" y="80" style="font-size:15px;font-family:'Arial'">database</text>
+</g>
+
+<g transform="translate(40, 240)">
+<g transform="translate(0, 0)">
+<path d="M 1 21 v 60 h 60 v -80 h -40 z" stroke="#0000FF" stroke-width="1" fill="rgb(248,206,204)" />
+<path d="M 1 21 h 20 v -20" stroke="#0000FF" stroke-width="1" fill="none" />
+<text x="15" y="40" style="font-size:15px;font-family:'Arial'">WAL</text>
+<text x="20" y="60" style="font-size:15px;font-family:'Arial'">file</text>
+</g>
+<g transform="translate(12, 12)">
+<path d="M 1 21 v 60 h 60 v -80 h -40 z" stroke="#0000FF" stroke-width="1" fill="rgb(248,206,204)" />
+<path d="M 1 21 h 20 v -20" stroke="#0000FF" stroke-width="1" fill="none" />
+<text x="15" y="40" style="font-size:15px;font-family:'Arial'">WAL</text>
+<text x="20" y="60" style="font-size:15px;font-family:'Arial'">file</text>
+</g>
+<g transform="translate(24, 24)">
+<path d="M 1 21 v 60 h 60 v -80 h -40 z" stroke="#0000FF" stroke-width="1" fill="rgb(248,206,204)" />
+<path d="M 1 21 h 20 v -20" stroke="#0000FF" stroke-width="1" fill="none" />
+<text x="15" y="40" style="font-size:15px;font-family:'Arial'">WAL</text>
+<text x="20" y="60" style="font-size:15px;font-family:'Arial'">file</text>
+</g>
+</g>
+
+<g transform="translate(460, 240)">
+<g transform="translate(0, 0)">
+<path d="M 1 21 v 60 h 60 v -80 h -40 z" stroke="#0000FF" stroke-width="1" fill="rgb(248,206,204)" />
+<path d="M 1 21 h 20 v -20" stroke="#0000FF" stroke-width="1" fill="none" />
+<text x="15" y="40" style="font-size:15px;font-family:'Arial'">WAL</text>
+<text x="20" y="60" style="font-size:15px;font-family:'Arial'">file</text>
+</g>
+<g transform="translate(12, 12)">
+<path d="M 1 21 v 60 h 60 v -80 h -40 z" stroke="#0000FF" stroke-width="1" fill="rgb(248,206,204)" />
+<path d="M 1 21 h 20 v -20" stroke="#0000FF" stroke-width="1" fill="none" />
+<text x="15" y="40" style="font-size:15px;font-family:'Arial'">WAL</text>
+<text x="20" y="60" style="font-size:15px;font-family:'Arial'">file</text>
+</g>
+<g transform="translate(24, 24)">
+<path d="M 1 21 v 60 h 60 v -80 h -40 z" stroke="#0000FF" stroke-width="1" fill="rgb(248,206,204)" />
+<path d="M 1 21 h 20 v -20" stroke="#0000FF" stroke-width="1" fill="none" />
+<text x="15" y="40" style="font-size:15px;font-family:'Arial'">WAL</text>
+<text x="20" y="60" style="font-size:15px;font-family:'Arial'">file</text>
+</g>
+</g>
+
+<path d="M 145 100 h 12" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)" />
+<ellipse cx="200" cy="100" rx="30" ry="50" style="fill:rgb(255,242,204);stroke:#0000FF;stroke-width:1" />
+<path d="M 235 100 H 355" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)" />
+<rect x="255" y="80" width="25" height="15" style="fill:rgb(248,206,204);stroke:#0000FF;stroke-width:1" />
+<rect x="285" y="80" width="25" height="15" style="fill:rgb(248,206,204);stroke:#0000FF;stroke-width:1" />
+<rect x="315" y="80" width="25" height="15" style="fill:rgb(248,206,204);stroke:#0000FF;stroke-width:1" />
+
+<ellipse cx="400" cy="100" rx="30" ry="50" style="fill:rgb(255,242,204);stroke:#0000FF;stroke-width:1" />
+<path d="M 435 100 h 12" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)" />
+
+<text x="160" y="40" style="font-size:15px;font-family:'Arial'">WAL sender</text>
+<text x="350" y="40" style="font-size:15px;font-family:'Arial'">WAL receiver</text>
+<text x="260" y="120" style="font-size:13px;font-family:'Arial'">WAL records</text>
+
+<path d="M 90 165 v 60" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)" />
+<path d="M 510 165 v 60" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)" />
+</svg>
