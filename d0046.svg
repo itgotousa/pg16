@@ -4,8 +4,8 @@
 <g transform="translate(40, 40)">
 <ellipse cx="51" cy="106" rx="50" ry="15" style="fill:#DAE8FC;stroke:#0000FF;stroke-width:1" />
 <polygon points="1,106 1,16 101,16 101,106" style="fill:#DAE8FC;stroke:#DAE8FC;stroke-width:1" />
-<path d="M 1 15 v 90" stroke="#0000FF" stroke-width="1" fill="none" />
-<path d="M 101 16 v 90" stroke="#0000FF" stroke-width="1" fill="none" />
+<path d="M 1 16 v 91" stroke="#0000FF" stroke-width="1" fill="none" />
+<path d="M 101 16 v 91" stroke="#0000FF" stroke-width="1" fill="none" />
 <ellipse cx="51" cy="16" rx="50" ry="15" style="fill:#DAE8FC;stroke:#0000FF;stroke-width:1" />
 <text x="25" y="60" style="font-size:15px;font-family:'Arial'">primary</text>
 <text x="20" y="80" style="font-size:15px;font-family:'Arial'">database</text>
@@ -14,8 +14,8 @@
 <g transform="translate(460, 40)">
 <ellipse cx="51" cy="106" rx="50" ry="15" style="fill:#DAE8FC;stroke:#0000FF;stroke-width:1" />
 <polygon points="1,106 1,16 101,16 101,106" style="fill:#DAE8FC;stroke:#DAE8FC;stroke-width:1" />
-<path d="M 1 15 v 90" stroke="#0000FF" stroke-width="1" fill="none" />
-<path d="M 101 16 v 90" stroke="#0000FF" stroke-width="1" fill="none" />
+<path d="M 1 16 v 91" stroke="#0000FF" stroke-width="1" fill="none" />
+<path d="M 101 16 v 91" stroke="#0000FF" stroke-width="1" fill="none" />
 <ellipse cx="51" cy="16" rx="50" ry="15" style="fill:#DAE8FC;stroke:#0000FF;stroke-width:1" />
 <text x="23" y="60" style="font-size:15px;font-family:'Arial'">standby</text>
 <text x="20" y="80" style="font-size:15px;font-family:'Arial'">database</text>
@@ -25,14 +25,10 @@
 <g transform="translate(0, 0)">
 <path d="M 1 21 v 60 h 60 v -80 h -40 z" stroke="#0000FF" stroke-width="1" fill="rgb(248,206,204)" />
 <path d="M 1 21 h 20 v -20" stroke="#0000FF" stroke-width="1" fill="none" />
-<text x="15" y="40" style="font-size:15px;font-family:'Arial'">WAL</text>
-<text x="20" y="60" style="font-size:15px;font-family:'Arial'">file</text>
 </g>
 <g transform="translate(12, 12)">
 <path d="M 1 21 v 60 h 60 v -80 h -40 z" stroke="#0000FF" stroke-width="1" fill="rgb(248,206,204)" />
 <path d="M 1 21 h 20 v -20" stroke="#0000FF" stroke-width="1" fill="none" />
-<text x="15" y="40" style="font-size:15px;font-family:'Arial'">WAL</text>
-<text x="20" y="60" style="font-size:15px;font-family:'Arial'">file</text>
 </g>
 <g transform="translate(24, 24)">
 <path d="M 1 21 v 60 h 60 v -80 h -40 z" stroke="#0000FF" stroke-width="1" fill="rgb(248,206,204)" />
@@ -46,14 +42,10 @@
 <g transform="translate(0, 0)">
 <path d="M 1 21 v 60 h 60 v -80 h -40 z" stroke="#0000FF" stroke-width="1" fill="rgb(248,206,204)" />
 <path d="M 1 21 h 20 v -20" stroke="#0000FF" stroke-width="1" fill="none" />
-<text x="15" y="40" style="font-size:15px;font-family:'Arial'">WAL</text>
-<text x="20" y="60" style="font-size:15px;font-family:'Arial'">file</text>
 </g>
 <g transform="translate(12, 12)">
 <path d="M 1 21 v 60 h 60 v -80 h -40 z" stroke="#0000FF" stroke-width="1" fill="rgb(248,206,204)" />
 <path d="M 1 21 h 20 v -20" stroke="#0000FF" stroke-width="1" fill="none" />
-<text x="15" y="40" style="font-size:15px;font-family:'Arial'">WAL</text>
-<text x="20" y="60" style="font-size:15px;font-family:'Arial'">file</text>
 </g>
 <g transform="translate(24, 24)">
 <path d="M 1 21 v 60 h 60 v -80 h -40 z" stroke="#0000FF" stroke-width="1" fill="rgb(248,206,204)" />
@@ -79,4 +71,5 @@
 
 <path d="M 90 165 v 60" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)" />
 <path d="M 510 165 v 60" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)" />
+
 </svg>
