@@ -1,0 +1,16 @@
+<svg version="1.1" width="600" height="320" xmlns="http://www.w3.org/2000/svg">
+<defs><marker id="arrowhead" markerWidth="10" markerHeight="7" refX="0" refY="3.5" orient="auto"><polygon points="0 0, 10 3.5, 0 7" /></marker></defs>
+
+<text x="240" y="30" style="font-size:15px;font-family:'Arial'">Single Block Chunk</text>
+<rect x="200" y="40" width="200" height="260" style="fill:rgb(248,206,204);stroke:#0000FF;stroke-width:1" />
+<text x="250" y="63" style="font-size:13px;font-family:'Courier New'">AllocBlockData</text>
+<path d="M 200 80 h 200" stroke="#0000FF" stroke-width="1" fill="none"/>
+<path d="M 200 120 h 200" stroke="#0000FF" stroke-width="1" fill="none"/>
+<text x="250" y="103" style="font-size:13px;font-family:'Courier New'">AllocChunkData</text>
+
+<path d="M 400 60 h 15 A 60 120 0 0 1 415 300" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)" />
+<path d="M 200 60 h -15 A 60 120 0 0 0 185 300" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)" />
+
+<text x="135" y="55" style="font-size:13px;font-family:'Courier New'">freeptr</text>
+<text x="410" y="55" style="font-size:13px;font-family:'Courier New'">endptr</text>
+</svg>
