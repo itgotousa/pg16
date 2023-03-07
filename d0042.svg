@@ -75,7 +75,7 @@
 <text x="115" y="315" style="font-size:15px;font-family:'Arial'">free space</text>
 <path d="M 85 260 h 5 a 10 10 0 0 1 10 10 v 30 a 10 10 0 0 0 10 10 a 10 10 0 0 0 -10 10 v 30 a 10 10 0 0 1 -10 10 h -5" stroke="#000000" stroke-width="1" fill="none" />
 
-<text x="100" y="400" style="font-size:15px;font-family:'Arial'">Active Block</text>
+<text x="100" y="390" style="font-size:15px;font-family:'Arial'">Active Block</text>
 <path d="M 100 385 L 85 370" stroke="#000000" stroke-width="1" stroke-dasharray="3,3" fill="none" marker-end="url(#arrowhead)" />
 
 <path d="M 570 170 A 30 50 0 0 0 570 90" stroke="#000000" stroke-width="1" stroke-dasharray="3,3" fill="none" marker-end="url(#arrowhead)" />
