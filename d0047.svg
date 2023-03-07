@@ -1,0 +1,25 @@
+<svg version="1.1" width="600" height="230" xmlns="http://www.w3.org/2000/svg">
+<defs><marker id="arrowhead" markerWidth="10" markerHeight="7" refX="0" refY="3.5" orient="auto"><polygon points="0 0, 10 3.5, 0 7" /></marker></defs>
+
+<text x="160" y="30" style="font-size:15px;font-family:'Arial'">CPU</text>
+<text x="460" y="30" style="font-size:15px;font-family:'Arial'">Memory</text>
+
+<rect x="40" y="40" width="280" height="100" style="fill:#DAE8FC;stroke:#0000FF;stroke-width:1" />
+<rect x="120" y="70" width="140" height="30" style="fill:rgb(213,232,212);stroke:#0000FF;stroke-width:1" />
+<text x="160" y="115" style="font-size:15px;font-family:'Arial'">register</text>
+
+<rect x="420" y="40" width="140" height="180" style="fill:rgb(213,232,212);stroke:#0000FF;stroke-width:1" />
+<path d="M 420 70 h 140 " stroke="#0000FF" stroke-width="1" fill="none" />
+<path d="M 420 100 h 140 " stroke="#0000FF" stroke-width="1" fill="none" />
+<path d="M 420 130 h 140 " stroke="#0000FF" stroke-width="1" fill="none" />
+<path d="M 420 160 h 140 " stroke="#0000FF" stroke-width="1" fill="none" />
+<path d="M 420 190 h 140 " stroke="#0000FF" stroke-width="1" fill="none" />
+
+<text x="180" y="94" style="font-size:25px;font-family:'Arial'">1</text>
+<text x="480" y="94" style="font-size:25px;font-family:'Arial'">0</text>
+
+<path d="M 265 80 H 405" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)" />
+<path d="M 415 90 H 275" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)" />
+
+<text x="90" y="190" style="font-size:20px;font-family:'Arial'">XCHG eax, lock_in_memory</text>
+</svg>
