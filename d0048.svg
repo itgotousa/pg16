@@ -1,0 +1,46 @@
+<svg version="1.1" width="600" height="450" xmlns="http://www.w3.org/2000/svg">
+<defs><marker id="arrowhead" markerWidth="10" markerHeight="7" refX="0" refY="3.5" orient="auto"><polygon points="0 0, 10 3.5, 0 7" /></marker></defs>
+
+
+<text x="48" y="60" style="font-size:13px;font-family:'Courier New'">num_free = 2</text>
+<text x="48" y="90" style="font-size:13px;font-family:'Courier New'">first_free</text>
+
+<text x="48" y="120" style="font-size:13px;font-family:'Courier New'">num_free = 1</text>
+<text x="48" y="150" style="font-size:13px;font-family:'Courier New'">first_free</text>
+
+<rect x="40" y="40" width="110" height="120" style="fill:none;stroke:#0000FF;stroke-width:1" />
+<path d="M 40 100 h 110" stroke="#0000FF" stroke-width="1" fill="none"/>
+
+<text x="20" y="30" style="font-size:15px;font-family:'Courier New'">context_freelists</text>
+
+<g transform="translate(40, 0)">
+<rect x="200" y="40" width="110" height="120" style="fill:none;stroke:#0000FF;stroke-width:1" />
+<text x="205" y="60" style="font-size:13px;font-family:'Courier New'">MemoryContext</text>
+<rect x="200" y="90" width="110" height="20" style="fill:rgb(248,206,204);stroke:#0000FF;stroke-width:1" />
+<text x="215" y="103" style="font-size:13px;font-family:'Courier New'">AllocBlock</text>
+</g>
+<g transform="translate(250, 0)">
+<rect x="200" y="40" width="110" height="120" style="fill:none;stroke:#0000FF;stroke-width:1" />
+<text x="205" y="60" style="font-size:13px;font-family:'Courier New'">MemoryContext</text>
+<rect x="200" y="90" width="110" height="20" style="fill:rgb(248,206,204);stroke:#0000FF;stroke-width:1" />
+<text x="215" y="103" style="font-size:13px;font-family:'Courier New'">AllocBlock</text>
+</g>
+<text x="355" y="30" style="font-size:13px;font-family:'Courier New'">nextchild</text>
+
+<path d="M 133 87 H 180 L 200 40 H 225" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)" />
+<path d="M 355 60 H 390 L 410 40 H 435" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)" />
+
+<path d="M 133 147 H 180 L 200 190 H 225" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)" />
+
+<g transform="translate(40, 150)">
+<rect x="200" y="40" width="110" height="240" style="fill:none;stroke:#0000FF;stroke-width:1" />
+<text x="205" y="60" style="font-size:13px;font-family:'Courier New'">MemoryContext</text>
+<rect x="200" y="90" width="110" height="20" style="fill:rgb(248,206,204);stroke:#0000FF;stroke-width:1" />
+<text x="215" y="103" style="font-size:13px;font-family:'Courier New'">AllocBlock</text>
+</g>
+
+<path d="M 565 40 h 2 a 5 5 0 0 1 5 5 v 50 a 5 5 0 0 0 5 5 a 5 5 0 0 0 -5 5 v 50 a 5 5 0 0 1 -5 5 h -2" stroke="#000000" stroke-width="1" fill="none"/>
+<text x="580" y="105" style="font-size:15px;font-family:'Arial'">1K</text>
+<text x="370" y="315" style="font-size:15px;font-family:'Arial'">8K</text>
+<path d="M 355 190 h 2 a 5 5 0 0 1 5 5 v 110 a 5 5 0 0 0 5 5 a 5 5 0 0 0 -5 5 v 110 a 5 5 0 0 1 -5 5 h -2" stroke="#000000" stroke-width="1" fill="none"/>
+</svg>
