@@ -33,8 +33,23 @@
 <path d="M 185 250 L 235 250" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)"  />
 <path d="M 245 270 L 190 270" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)"  />
 
-<path d="M 300 135 L 300 95" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)"  />
-<path d="M 475 135 L 475 60 L365 60" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)"  />
+<path d="M 300 135 V 95" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)"  />
+<path d="M 475 135 L 475 60 L 365 60" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)"  />
 
 <path d="M 300 235 L 300 210 L160 210 L 160 195" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)"  />
+
+<text x="150" y="45" style="font-size:13px;font-family:'Courier New'">firstchild</text>
+<text x="140" y="110" style="font-size:13px;font-family:'Courier New'">parent</text>
+<text x="305" y="120" style="font-size:13px;font-family:'Courier New'">parent</text>
+<text x="400" y="52" style="font-size:13px;font-family:'Courier New'">parent</text>
+
+<text x="352" y="190" style="font-size:13px;font-family:'Courier New'">prevchild</text>
+
+<text x="305" y="220" style="font-size:13px;font-family:'Courier New'">parent</text>
+
+<text x="177" y="238" style="font-size:13px;font-family:'Courier New'">nextchild</text>
+<text x="177" y="293" style="font-size:13px;font-family:'Courier New'">prevchild</text>
+
+<text x="30" y="210" style="font-size:13px;font-family:'Courier New'">firstchild</text>
+
 </svg>
