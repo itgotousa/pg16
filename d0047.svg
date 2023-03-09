@@ -21,6 +21,6 @@
 <path d="M 265 80 H 405" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)" />
 <path d="M 415 90 H 275" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)" />
 
-<text x="90" y="190" style="font-size:20px;font-family:'Courier New'">XCHG eax, locked</text>
+<text x="90" y="190" style="font-size:20px;font-family:'Courier New'">XCHG eax, [locked]</text>
   
 </svg>
