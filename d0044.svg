@@ -2,15 +2,17 @@
 <defs><marker id="arrowhead" markerWidth="10" markerHeight="7" refX="0" refY="3.5" orient="auto"><polygon points="0 0, 10 3.5, 0 7" /></marker></defs>
 
 <text x="80" y="30" style="font-size:15px;font-family:'Arial'">Initial Block</text>
-
 <text x="385" y="30" style="font-size:15px;font-family:'Arial'">Non-Initial Block</text>
 
 <text x="50" y="55" style="font-size:13px;font-family:'Courier New'">MemoryContextData</text>
 <rect x="40" y="40" width="150" height="220" style="fill:none;stroke:#0000FF;stroke-width:1" />
 <path d="M 45 65 h 140" stroke="#0000FF" stroke-width="1" stroke-dasharray="3,3" fill="none"/>
 <path d="M 40 100 h 150" stroke="#0000FF" stroke-width="1" fill="none"/>
-<path d="M 195 40 h 5 a 10 10 0 0 1 10 10 v 10 a 10 10 0 0 0 10 10 a 10 10 0 0 0 -10 10 v 10 a 10 10 0 0 1 -10 10 h -5" stroke="#000000" stroke-width="1" fill="none" />
-<text x="222" y="73" style="font-size:13px;font-family:'Courier New'">AllocSetContext</text>
+<path d="M 195 40 h 5 a 5 5 0 0 1 5 5 v 20 a 5 5 0 0 0 5 5 a 5 5 0 0 0 -5 5 v 20 a 5 5 0 0 1 -5 5 h -5" stroke="#000000" stroke-width="1" fill="none" />
+<text x="210" y="30" style="font-size:13px;font-family:'Courier New'">AllocSetContext</text>
+<path d="M 260 35 V 70 H 225" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)" />
+
+
 <rect x="40" y="100" width="150" height="40" style="fill:rgb(248,206,204);stroke:#0000FF;stroke-width:1" />
 <text x="60" y="123" style="font-size:13px;font-family:'Courier New'">AllocBlockData</text>
 
@@ -21,9 +23,13 @@
 
 <path d="M 360 70 H 345 A 30 85 0 0 0 340 200 h5" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)" />
 
+<path d="M 360 60 H 300 L 280 100 H 215" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)" />
+<text x="320" y="55" style="font-size:13px;font-family:'Courier New'">next</text>
+
 <path d="M 510 70 H 525 A 30 85 0 0 1 525 260" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)" />
 
 <text x="400" y="230" style="font-size:15px;font-family:'Arial'">free space</text>
 <text x="270" y="150" style="font-size:13px;font-family:'Courier New'">freeptr</text>
 <text x="540" y="260" style="font-size:13px;font-family:'Courier New'">endptr</text>
+
 </svg>
