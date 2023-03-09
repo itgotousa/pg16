@@ -19,6 +19,9 @@
 <text x="17" y="25" style="font-size:15px;font-family:'Arial'">postmaster</text>
 </g>
 
+<path d="M 80 95 v -7 a 30 10 0 0 1 120 0" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)" />
+<text x="132" y="85" style="font-size:15px;font-family:'Arial'">(4)</text>
+
 <g transform="translate(470, 100)">
 <ellipse cx="51" cy="21" rx="50" ry="20" style="fill:#DAE8FC;stroke:#0000FF;stroke-width:1" />
 <text x="28" y="25" style="font-size:15px;font-family:'Arial'">startup</text>
@@ -39,9 +42,8 @@
 <text x="530" y="90" style="font-size:15px;font-family:'Arial'">(1)</text>
 <text x="373" y="90" style="font-size:15px;font-family:'Arial'">(2)</text>
 <text x="375" y="180" style="font-size:15px;font-family:'Arial'">(3)</text>
-<text x="90" y="210" style="font-size:15px;font-family:'Arial'">(4)</text>
+<text x="375" y="220" style="font-size:15px;font-family:'Arial'">(5)</text>
 
 <path d="M 400 190 H 90" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)" />
-<path d="M 80 220 H 190" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)" />
-<path d="M 400 250 H 210" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)" />
+<path d="M 400 230 H 210" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)" />
 </svg>
