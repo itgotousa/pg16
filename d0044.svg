@@ -24,12 +24,14 @@
 <path d="M 360 70 H 345 A 30 85 0 0 0 340 200 h5" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)" />
 
 <path d="M 360 60 H 300 L 280 100 H 215" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)" />
-<text x="320" y="55" style="font-size:13px;font-family:'Courier New'">next</text>
+<text x="320" y="53" style="font-size:13px;font-family:'Courier New'">next</text>
+<path d="M 510 60 h 50" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)" />
+<text x="520" y="53" style="font-size:13px;font-family:'Courier New'">prev</text>
 
 <path d="M 510 70 H 525 A 30 85 0 0 1 525 260" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)" />
 
 <text x="400" y="230" style="font-size:15px;font-family:'Arial'">free space</text>
 <text x="270" y="150" style="font-size:13px;font-family:'Courier New'">freeptr</text>
 <text x="540" y="260" style="font-size:13px;font-family:'Courier New'">endptr</text>
-
+  
 </svg>
