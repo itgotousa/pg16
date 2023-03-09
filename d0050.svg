@@ -1,0 +1,39 @@
+<svg version="1.1" width="600" height="220" xmlns="http://www.w3.org/2000/svg">
+<defs><marker id="arrowhead" markerWidth="10" markerHeight="7" refX="0" refY="3.5" orient="auto"><polygon points="0 0, 10 3.5, 0 7" /></marker></defs>
+
+<g transform="translate(40, 50)">
+<ellipse cx="51" cy="21" rx="50" ry="20" style="fill:#DAE8FC;stroke:#0000FF;stroke-width:1" />
+<text x="27" y="25" style="font-size:15px;font-family:'Arial'">client 1</text>
+</g>
+<g transform="translate(40, 150)">
+<ellipse cx="51" cy="21" rx="50" ry="20" style="fill:#DAE8FC;stroke:#0000FF;stroke-width:1" />
+<text x="27" y="25" style="font-size:15px;font-family:'Arial'">client 2</text>
+</g>
+
+<rect x="330" y="40" width="240" height="160" style="fill:none;stroke:#0000FF;stroke-width:1" />
+<g transform="translate(460, 100)">
+<ellipse cx="51" cy="21" rx="50" ry="20" style="fill:#DAE8FC;stroke:#0000FF;stroke-width:1" />
+<text x="17" y="25" style="font-size:15px;font-family:'Arial'">postmaster</text>
+</g>
+<g transform="translate(360, 50)">
+<ellipse cx="51" cy="21" rx="50" ry="20" style="fill:#DAE8FC;stroke:#0000FF;stroke-width:1" />
+<text x="23" y="25" style="font-size:15px;font-family:'Arial'">postgres</text>
+</g>
+<g transform="translate(360, 150)">
+<ellipse cx="51" cy="21" rx="50" ry="20" style="fill:#DAE8FC;stroke:#0000FF;stroke-width:1" />
+<text x="17" y="25" style="font-size:15px;font-family:'Arial'">walsender</text>
+</g>
+
+<path d="M 510 95 v -5 A 40 20 0 0 0 475 70" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)" />
+<path d="M 510 145 v 5 A 40 20 0 0 1 475 170" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)" />
+
+<text x="500" y="70" style="font-size:13px;font-family:'Courier New'">fork()</text>
+<text x="500" y="175" style="font-size:13px;font-family:'Courier New'">fork()</text>
+
+<path d="M 260 70 H 350" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)" />
+<path d="M 260 70 H 152" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)" />
+<text x="200" y="60" style="font-size:15px;font-family:'Arial'">libpq protocol</text>
+<text x="180" y="160" style="font-size:15px;font-family:'Arial'">replication protocol</text>
+<path d="M 260 170 H 350" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)" />
+<path d="M 260 170 H 152" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)" />
+</svg>
