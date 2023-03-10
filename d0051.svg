@@ -1,0 +1,54 @@
+<svg version="1.1" width="600" height="270" xmlns="http://www.w3.org/2000/svg">
+<defs><marker id="arrowhead" markerWidth="10" markerHeight="7" refX="0" refY="3.5" orient="auto"><polygon points="0 0, 10 3.5, 0 7" /></marker></defs>
+
+<path d="M 20 30 V 220 " stroke="#000000" stroke-width="1" stroke-dasharray="2,2" fill="none" />
+<path d="M 540 30 V 220 " stroke="#000000" stroke-width="1" stroke-dasharray="2,2" fill="none" />
+<path d="M 200 30 V 220 " stroke="#000000" stroke-width="1" stroke-dasharray="2,2" fill="none" />
+<path d="M 320 30 V 220 " stroke="#000000" stroke-width="1" stroke-dasharray="2,2" fill="none" />
+<path d="M 380 30 V 220 " stroke="#000000" stroke-width="1" stroke-dasharray="2,2" fill="none" />
+<path d="M 460 30 V 220 " stroke="#000000" stroke-width="1" stroke-dasharray="2,2" fill="none" />
+
+<path d="M 10 60 h 580 " stroke="#0000FF" stroke-width="1" fill="none" />
+<path d="M 10 90 h 580 " stroke="#0000FF" stroke-width="1" fill="none" />
+<rect x="20" y="60" width="520" height="30" style="fill:rgb(213,232,212);stroke:#0000FF;stroke-width:1" />
+
+<path d="M 60 60 v 30 " stroke="#0000FF" stroke-width="1" fill="none" />
+<path d="M 110 60 v 30 " stroke="#0000FF" stroke-width="1" fill="none" />
+<path d="M 170 60 v 30 " stroke="#0000FF" stroke-width="1" fill="none" />
+<path d="M 230 60 v 30 " stroke="#0000FF" stroke-width="1" fill="none" />
+<path d="M 290 60 v 30 " stroke="#0000FF" stroke-width="1" fill="none" />
+
+<path d="M 200 60 v 30 " stroke="#0000FF" stroke-width="1" fill="none" />
+<path d="M 320 60 v 30 " stroke="#0000FF" stroke-width="1" fill="none" />
+<path d="M 380 60 v 30 " stroke="#0000FF" stroke-width="1" fill="none" />
+<path d="M 460 60 v 30 " stroke="#0000FF" stroke-width="1" fill="none" />
+
+<path d="M 10 160 h 580 " stroke="#0000FF" stroke-width="1" fill="none" />
+<path d="M 10 190 h 580 " stroke="#0000FF" stroke-width="1" fill="none" />
+<rect x="20" y="160" width="300" height="30" style="fill:rgb(213,232,212);stroke:#0000FF;stroke-width:1" />
+
+<path d="M 60 160 v 30 " stroke="#0000FF" stroke-width="1" fill="none" />
+<path d="M 110 160 v 30 " stroke="#0000FF" stroke-width="1" fill="none" />
+<path d="M 170 160 v 30 " stroke="#0000FF" stroke-width="1" fill="none" />
+
+<path d="M 200 160 v 30 " stroke="#0000FF" stroke-width="1" fill="none" />
+<path d="M 230 160 v 30 " stroke="#0000FF" stroke-width="1" fill="none" />
+<path d="M 290 160 v 30 " stroke="#0000FF" stroke-width="1" fill="none" />
+
+<path d="M 200 220 V 200" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)" />
+<path d="M 320 240 V 200" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)" />
+<path d="M 380 220 V 200" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)" />
+
+<path d="M 460 30 V 50" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)" />
+<path d="M 540 30 V 50" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)" />
+
+<text x="160" y="232" style="font-size:13px;font-family:'Courier New'">replay_lsn</text>
+<text x="280" y="252" style="font-size:13px;font-family:'Courier New'">flush_lsn</text>
+<text x="340" y="232" style="font-size:13px;font-family:'Courier New'">write_lsn</text>
+
+<text x="430" y="23" style="font-size:13px;font-family:'Courier New'">sent_lsn</text>
+<text x="510" y="23" style="font-size:13px;font-family:'Courier New'">last_lsn</text>
+
+<path d="M 400 125 H 527" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)" />
+<path d="M 400 125 H 213" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)" />
+</svg>
