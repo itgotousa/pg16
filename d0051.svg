@@ -10,8 +10,8 @@
 <path d="M 10 60 h 580 " stroke="#0000FF" stroke-width="1" fill="none" />
 <path d="M 10 90 h 580 " stroke="#0000FF" stroke-width="1" fill="none" />
 <rect x="20" y="60" width="520" height="30" style="fill:rgb(213,232,212);stroke:#0000FF;stroke-width:1" />
-<text x="30" y="50" style="font-size:15px;font-family:'Arial'">primary WAL stream</text>
-<text x="30" y="150" style="font-size:15px;font-family:'Arial'">standby WAL stream</text>
+<text x="20" y="50" style="font-size:15px;font-family:'Arial'">primary WAL stream</text>
+<text x="20" y="150" style="font-size:15px;font-family:'Arial'">standby WAL stream</text>
 
 <path d="M 60 60 v 30 " stroke="#0000FF" stroke-width="1" fill="none" />
 <path d="M 110 60 v 30 " stroke="#0000FF" stroke-width="1" fill="none" />
