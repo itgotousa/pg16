@@ -40,7 +40,7 @@
 
 <rect x="280" y="240" width="300" height="60" style="fill:rgb(227,200,0);stroke:#0000FF;stroke-width:1" />
 <path d="M 400 240 L 400 300" stroke="#000000" stroke-width="1" fill="none" />
-<text x="300" y="275" style="font-size:15px;font-family:'Courier New'">XLogRecord</text>
+<text x="295" y="275" style="font-size:15px;font-family:'Courier New'">XLogRecord</text>
 <text x="420" y="275" style="font-size:15px;font-family:'Arial'">XLog record data</text>
 
 <path d="M 420 190 L 580 240" stroke="#000000" stroke-dasharray="4,4" stroke-width="1" fill="none" />
