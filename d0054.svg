@@ -1,0 +1,31 @@
+<svg version="1.1" width="600" height="420" xmlns="http://www.w3.org/2000/svg">
+<defs><marker id="arrowhead" markerWidth="10" markerHeight="7" refX="0" refY="3.5" orient="auto"><polygon points="0 0, 10 3.5, 0 7" /></marker></defs>
+
+<rect x="20" y="40" width="150" height="160" style="fill:none;stroke:#0000FF;stroke-width:2" />
+<rect x="25" y="50" width="140" height="25" style="fill:rgb(213,232,212);stroke:#0000FF;stroke-width:1" />
+<text x="40" y="67" style="font-size:13px;font-family:'Arial'">WAL</text>
+
+<ellipse cx="110" cy="120" rx="50" ry="20" style="fill:rgb(255,242,204);stroke:#0000FF;stroke-width:1" />
+<text x="80" y="125" style="font-size:13px;font-family:'Arial'">walsender</text>
+<ellipse cx="110" cy="170" rx="50" ry="20" style="fill:rgb(255,242,204);stroke:#0000FF;stroke-width:1" />
+<text x="80" y="175" style="font-size:13px;font-family:'Arial'">walsender</text>
+
+<path d="M 35 75 V 170 H 50 " stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)" />
+<path d="M 45 75 V 120 H 50 " stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)" />
+
+<rect x="200" y="40" width="380" height="360" style="fill:none;stroke:#0000FF;stroke-width:2" />
+
+<ellipse cx="390" cy="70" rx="50" ry="20" style="fill:rgb(255,242,204);stroke:#0000FF;stroke-width:1" />
+<text x="360" y="75" style="font-size:13px;font-family:'Arial'">postmaster</text>
+
+<ellipse cx="270" cy="70" rx="50" ry="20" style="fill:rgb(255,242,204);stroke:#0000FF;stroke-width:1" />
+<text x="250" y="75" style="font-size:13px;font-family:'Arial'">launcher</text>
+
+<ellipse cx="270" cy="120" rx="50" ry="20" style="fill:rgb(255,242,204);stroke:#0000FF;stroke-width:1" />
+<text x="250" y="125" style="font-size:13px;font-family:'Arial'">worker</text>
+<ellipse cx="270" cy="170" rx="50" ry="20" style="fill:rgb(255,242,204);stroke:#0000FF;stroke-width:1" />
+<text x="250" y="175" style="font-size:13px;font-family:'Arial'">worker</text>
+
+<path d="M 162 120 H 208" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)" />
+<path d="M 162 170 H 208" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)" />
+</svg>
