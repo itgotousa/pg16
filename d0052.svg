@@ -1,0 +1,81 @@
+<svg version="1.1" width="600" height="440" xmlns="http://www.w3.org/2000/svg">
+<defs><marker id="arrowhead" markerWidth="10" markerHeight="7" refX="0" refY="3.5" orient="auto"><polygon points="0 0, 10 3.5, 0 7" /></marker></defs>
+
+<rect x="10" y="60" width="270" height="360" style="fill:none;stroke:#0000FF;stroke-width:1" />
+
+<ellipse cx="145" cy="90" rx="50" ry="20" style="fill:rgb(255,242,204);stroke:#0000FF;stroke-width:1" />
+<text x="115" y="95" style="font-size:13px;font-family:'Arial'">postmaster</text>
+<ellipse cx="80" cy="140" rx="50" ry="20" style="fill:rgb(255,242,204);stroke:#0000FF;stroke-width:1" />
+<ellipse cx="210" cy="140" rx="50" ry="20" style="fill:rgb(255,242,204);stroke:#0000FF;stroke-width:1" />
+<text x="180" y="145" style="font-size:13px;font-family:'Arial'">walsender</text>
+<text x="57" y="145" style="font-size:13px;font-family:'Arial'">postgres</text>
+
+<path d="M 260 140 H 330" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)" />
+<path d="M 80 160 V 180" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)" />
+<path d="M 210 190 V 170" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)" />
+
+<rect x="60" y="190" width="170" height="30" style="fill:rgb(213,232,212);stroke:#0000FF;stroke-width:1" />
+<path d="M 90 190 v 30 " stroke="#0000FF" stroke-width="1" fill="none" />
+<path d="M 150 190 v 30 " stroke="#0000FF" stroke-width="1" fill="none" />
+<path d="M 170 190 v 30 " stroke="#0000FF" stroke-width="1" fill="none" />
+<text x="107" y="210" style="font-size:13px;font-family:'Arial'">WAL</text>
+
+<ellipse cx="80" cy="270" rx="50" ry="20" style="fill:rgb(255,242,204);stroke:#0000FF;stroke-width:1" />
+<ellipse cx="210" cy="270" rx="50" ry="20" style="fill:rgb(255,242,204);stroke:#0000FF;stroke-width:1" />
+<text x="60" y="275" style="font-size:13px;font-family:'Arial'">bgwriter</text>
+<text x="175" y="275" style="font-size:13px;font-family:'Arial'">checkpointer</text>
+
+<rect x="320" y="60" width="270" height="360" style="fill:none;stroke:#0000FF;stroke-width:1" />
+
+<ellipse cx="455" cy="90" rx="50" ry="20" style="fill:rgb(255,242,204);stroke:#0000FF;stroke-width:1" />
+<text x="425" y="95" style="font-size:13px;font-family:'Arial'">postmaster</text>
+
+<ellipse cx="390" cy="140" rx="50" ry="20" style="fill:rgb(255,242,204);stroke:#0000FF;stroke-width:1" />
+<text x="360" y="145" style="font-size:13px;font-family:'Arial'">walreceiver</text>
+
+<ellipse cx="520" cy="140" rx="50" ry="20" style="fill:rgb(255,242,204);stroke:#0000FF;stroke-width:1" />
+<text x="495" y="145" style="font-size:13px;font-family:'Arial'">postgres</text>
+
+<path d="M 390 160 V 180" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)" />
+<path d="M 390 190 V 240" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)" />
+
+<rect x="370" y="190" width="170" height="30" style="fill:rgb(213,232,212);stroke:#0000FF;stroke-width:1" />
+<path d="M 400 190 v 30 " stroke="#0000FF" stroke-width="1" fill="none" />
+<path d="M 460 190 v 30 " stroke="#0000FF" stroke-width="1" fill="none" />
+<path d="M 480 190 v 30 " stroke="#0000FF" stroke-width="1" fill="none" />
+<text x="417" y="210" style="font-size:13px;font-family:'Arial'">WAL</text>
+
+<ellipse cx="390" cy="270" rx="50" ry="20" style="fill:rgb(255,242,204);stroke:#0000FF;stroke-width:1" />
+<text x="370" y="275" style="font-size:13px;font-family:'Arial'">startup</text>
+
+<g transform="translate(95, 290)">
+<ellipse cx="51" cy="106" rx="50" ry="15" style="fill:#DAE8FC;stroke:#0000FF;stroke-width:1" />
+<polygon points="1,106 1,16 101,16 101,106" style="fill:#DAE8FC;stroke:#DAE8FC;stroke-width:1" />
+<path d="M 1 16 v 91" stroke="#0000FF" stroke-width="1" fill="none" />
+<path d="M 101 16 v 91" stroke="#0000FF" stroke-width="1" fill="none" />
+<ellipse cx="51" cy="16" rx="50" ry="15" style="fill:#DAE8FC;stroke:#0000FF;stroke-width:1" />
+<text x="25" y="60" style="font-size:15px;font-family:'Arial'">primary</text>
+<text x="20" y="80" style="font-size:15px;font-family:'Arial'">database</text>
+</g>
+<g transform="translate(405, 290)">
+<ellipse cx="51" cy="106" rx="50" ry="15" style="fill:#DAE8FC;stroke:#0000FF;stroke-width:1" />
+<polygon points="1,106 1,16 101,16 101,106" style="fill:#DAE8FC;stroke:#DAE8FC;stroke-width:1" />
+<path d="M 1 16 v 91" stroke="#0000FF" stroke-width="1" fill="none" />
+<path d="M 101 16 v 91" stroke="#0000FF" stroke-width="1" fill="none" />
+<ellipse cx="51" cy="16" rx="50" ry="15" style="fill:#DAE8FC;stroke:#0000FF;stroke-width:1" />
+<text x="25" y="60" style="font-size:15px;font-family:'Arial'">primary</text>
+<text x="20" y="80" style="font-size:15px;font-family:'Arial'">database</text>
+</g>
+
+<path d="M 440 270 h 20 v 30" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)" />
+
+<path d="M 70 290 v 50 h 15" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)" />
+<path d="M 222 290 v 50 h -15" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)" />
+
+<path d="M 505 340 h 50 v -175" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)" />
+
+<path d="M 80 40 V 110" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)" />
+<path d="M 520 120 V 50" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)" />
+
+<text x="10" y="35" style="font-size:15px;font-family:'Arial'">INSERT / DELETE / UPDATE</text>
+<text x="450" y="35" style="font-size:15px;font-family:'Arial'">SELECT(read-only)</text>
