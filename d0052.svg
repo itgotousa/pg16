@@ -63,7 +63,7 @@
 <path d="M 1 16 v 91" stroke="#0000FF" stroke-width="1" fill="none" />
 <path d="M 101 16 v 91" stroke="#0000FF" stroke-width="1" fill="none" />
 <ellipse cx="51" cy="16" rx="50" ry="15" style="fill:#DAE8FC;stroke:#0000FF;stroke-width:1" />
-<text x="25" y="60" style="font-size:15px;font-family:'Arial'">primary</text>
+<text x="25" y="60" style="font-size:15px;font-family:'Arial'">standby</text>
 <text x="20" y="80" style="font-size:15px;font-family:'Arial'">database</text>
 </g>
 
