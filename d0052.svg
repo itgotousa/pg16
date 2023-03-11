@@ -79,3 +79,4 @@
 
 <text x="10" y="35" style="font-size:15px;font-family:'Arial'">INSERT / DELETE / UPDATE</text>
 <text x="450" y="35" style="font-size:15px;font-family:'Arial'">SELECT(read-only)</text>
+</svg>
