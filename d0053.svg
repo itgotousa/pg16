@@ -11,7 +11,8 @@
 <path d="M 15 55 h 30" stroke="#000000" stroke-width="5" fill="none" />
 <path d="M 15 65 h 30" stroke="#000000" stroke-width="5" fill="none" />
 <circle cx="30" cy="80" r="8" fill="#000000" />
-<circle cx="30" cy="95" r="3" fill="#000000" />
+<circle cx="30" cy="80" r="2" fill="#FFFFFF" />
+<circle cx="30" cy="97" r="3" fill="#000000" />
 <rect x="15" y="105" width="30" height="5" style="fill:none;stroke:#000000;stroke-width:2" />
 <path d="M 25 105 v 5" stroke="#000000" stroke-width="2" fill="none" />
 <path d="M 35 105 v 5" stroke="#000000" stroke-width="2" fill="none" />
@@ -23,7 +24,8 @@
 <path d="M 15 55 h 30" stroke="#000000" stroke-width="5" fill="none" />
 <path d="M 15 65 h 30" stroke="#000000" stroke-width="5" fill="none" />
 <circle cx="30" cy="80" r="8" fill="#000000" />
-<circle cx="30" cy="95" r="3" fill="#000000" />
+<circle cx="30" cy="80" r="2" fill="#FFFFFF" />
+<circle cx="30" cy="97" r="3" fill="#000000" />
 <rect x="15" y="105" width="30" height="5" style="fill:none;stroke:#000000;stroke-width:2" />
 <path d="M 25 105 v 5" stroke="#000000" stroke-width="2" fill="none" />
 <path d="M 35 105 v 5" stroke="#000000" stroke-width="2" fill="none" />
