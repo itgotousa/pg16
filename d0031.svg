@@ -39,7 +39,7 @@
 
 <rect x="460" y="260" width="90" height="30" style="fill:rgb(255, 204, 163);stroke:#0000FF;stroke-width:1" />
 <text x="470" y="280" style="font-size:15px;font-family:'Arial'">checkpoint</text>
-<text x="160" y="280" style="font-size:15px;font-family:'Arial'">Redo Point</text>
+<text x="163" y="280" style="font-size:15px;font-family:'Arial'">Redo Point</text>
 <circle cx="200" cy="260" r="5" fill="#FF0000" />
 
 <path d="M 505 255 v -20 H 250 L 215 250 " stroke="#0000FF" stroke-width="1" fill="none" stroke-dasharray="5,3" marker-end="url(#arrowhead)" />
