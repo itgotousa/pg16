@@ -10,7 +10,40 @@
 <rect x="400" y="100" width="180" height="30" style="fill:rgb(213,232,212);stroke:#0000FF;stroke-width:1" />
 <text x="450" y="120" style="font-size:15px;font-family:'Arial'">real data</text>
 
-<path d="M 50 100 v 30" stroke="#0000FF" stroke-width="1" fill="none" />
-<path d="M 80 100 v 30" stroke="#0000FF" stroke-width="1" fill="none" />
-<path d="M 110 100 v 30" stroke="#0000FF" stroke-width="1" fill="none" />
+<path d="M 70 100 v 30" stroke="#0000FF" stroke-width="1" fill="none" />
+<path d="M 120 100 v 30" stroke="#0000FF" stroke-width="1" fill="none" />
+<path d="M 170 100 v 30" stroke="#0000FF" stroke-width="1" fill="none" />
+<path d="M 260 100 v 30" stroke="#0000FF" stroke-width="1" fill="none" />
+<path d="M 290 100 v 30" stroke="#0000FF" stroke-width="1" fill="none" />
+<path d="M 320 100 v 30" stroke="#0000FF" stroke-width="1" fill="none" />
+<path d="M 340 100 v 30" stroke="#0000FF" stroke-width="1" fill="none" />
+
+
+<path d="M 45 115 v -30" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)"/>
+<path d="M 95 115 v 30" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)"/>
+<path d="M 145 115 v -30" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)"/>
+<path d="M 215 115 v 30" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)"/>
+<path d="M 275 115 v -30" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)"/>
+<path d="M 305 115 v 30" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)"/>
+<path d="M 330 115 v -30" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)"/>
+<path d="M 370 115 v 30" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)"/>
+
+<circle cx="45" cy="115" r="3" fill="#FF0000" stroke="#000000" stroke-width="2" />
+<circle cx="95" cy="115" r="3" fill="#FF0000" stroke="#000000" stroke-width="2" />
+<circle cx="145" cy="115" r="3" fill="#FF0000" stroke="#000000" stroke-width="2" />
+<circle cx="215" cy="115" r="3" fill="#FF0000" stroke="#000000" stroke-width="2" />
+<circle cx="275" cy="115" r="3" fill="#FF0000" stroke="#000000" stroke-width="2" />
+<circle cx="305" cy="115" r="3" fill="#FF0000" stroke="#000000" stroke-width="2" />
+<circle cx="330" cy="115" r="3" fill="#FF0000" stroke="#000000" stroke-width="2" />
+<circle cx="370" cy="115" r="3" fill="#FF0000" stroke="#000000" stroke-width="2" />
+
+<text x="25" y="68" style="font-size:13px;font-family:'Courier New'">t_xmin</text>
+<text x="70" y="168" style="font-size:13px;font-family:'Courier New'">t_xmax</text>
+<text x="125" y="68" style="font-size:13px;font-family:'Courier New'">t_cid</text>
+<text x="190" y="168" style="font-size:13px;font-family:'Courier New'">t_ctid</text>
+<text x="220" y="68" style="font-size:13px;font-family:'Courier New'">t_infomask2</text>
+<text x="260" y="168" style="font-size:13px;font-family:'Courier New'">t_infomask</text>
+<text x="320" y="68" style="font-size:13px;font-family:'Courier New'">t_hoff</text>
+<text x="350" y="168" style="font-size:13px;font-family:'Courier New'">t_bits</text>
+
 </svg>
