@@ -8,6 +8,11 @@
 <circle cx="300" cy="40" r="15" fill="#FFFFFF" stroke="#0000FF" stroke-width="1" />
 <circle cx="300" cy="560" r="15" fill="#FFFFFF" stroke="#0000FF" stroke-width="1" />
 
+<circle cx="116" cy="116" r="15" fill="#FFFFFF" stroke="#0000FF" stroke-width="1" />
+<circle cx="484" cy="116" r="15" fill="#FFFFFF" stroke="#0000FF" stroke-width="1" />
+<circle cx="484" cy="484" r="15" fill="#FFFFFF" stroke="#0000FF" stroke-width="1" />
+<circle cx="116" cy="484" r="15" fill="#FFFFFF" stroke="#0000FF" stroke-width="1" />
+
 <circle cx="551" cy="233" r="15" fill="#FFFFFF" stroke="#0000FF" stroke-width="1" />
 <circle cx="525" cy="170" r="15" fill="#FFFFFF" stroke="#0000FF" stroke-width="1" />
 <circle cx="430" cy="75" r="15" fill="#FFFFFF" stroke="#0000FF" stroke-width="1" />
