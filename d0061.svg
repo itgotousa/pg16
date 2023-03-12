@@ -1,6 +1,9 @@
 <svg version="1.1" width="600" height="600" xmlns="http://www.w3.org/2000/svg">
 <defs><marker id="arrowhead" markerWidth="10" markerHeight="7" refX="0" refY="3.5" orient="auto"><polygon points="0 0, 10 3.5, 0 7" /></marker></defs>
 
+<circle cx="300" cy="300" r="3" fill="#FF0000" stroke="#000000" stroke-width="3" />
+<path d="M 40 40 l 520 520" stroke="#000000" stroke-width="1" fill="none" stroke-dasharray="3,3"/>
+
 <circle cx="300" cy="300" r="260" fill="none" stroke="#000000" stroke-width="1" />
 <circle cx="40" cy="300" r="15" fill="#FFFFFF" stroke="#0000FF" stroke-width="1" />
 <circle cx="560" cy="300" r="15" fill="#FFFFFF" stroke="#0000FF" stroke-width="1" />
