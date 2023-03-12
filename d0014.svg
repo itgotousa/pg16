@@ -24,16 +24,14 @@
 
 <line x1="336" y1="160" x2="33" y2="160" stroke="#000" stroke-dasharray="5,3" stroke-width="1" marker-end="url(#arrowhead)" />
 
-<text x="260" y="55" style="font-size:15px;font-family:'Arial'">
-WAL space
-</text>
-
-<text x="120" y="180" style="font-size:15px;font-family:'Arial'">
-byte offset (LSN)
-</text>
+<text x="260" y="55" style="font-size:15px;font-family:'Arial'">WAL space</text>
+<text x="120" y="180" style="font-size:15px;font-family:'Arial'">byte offset (LSN)</text>
 <text x="35" y="137" style="font-size:15px;font-family:'Arial'">0</text>
 <text x="75" y="137" style="font-size:15px;font-family:'Arial'">1</text>
 <text x="115" y="137" style="font-size:15px;font-family:'Arial'">2</text>
 <text x="155" y="137" style="font-size:15px;font-family:'Arial'">3</text>
+  
+<path d="M 560 145 V 133" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)" />
+<text x="420" y="160" style="font-size:15px;font-family:'Arial'">0xFFFFFFFFFFFFFFFF</text>
 
 </svg>
