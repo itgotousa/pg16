@@ -1,0 +1,31 @@
+<svg version="1.1" width="600" height="180" xmlns="http://www.w3.org/2000/svg">
+<defs><marker id="arrowhead" markerWidth="10" markerHeight="7" refX="0" refY="3.5" orient="auto"><polygon points="0 0, 10 3.5, 0 7" /></marker></defs>
+
+<path d="M 20 60 h 560" stroke="#0000FF" stroke-width="1" fill="none"/>
+<path d="M 20 90 h 560" stroke="#0000FF" stroke-width="1" fill="none"/>
+<rect x="40" y="60" width="520" height="30" style="fill:none;stroke:#0000FF;stroke-width:1" />
+<path d="M 120 60 v 30" stroke="#0000FF" stroke-width="1" fill="none"/>
+<path d="M 250 60 v 30" stroke="#0000FF" stroke-width="1" fill="none"/>
+<path d="M 280 61 v 28" stroke="#0000FF" stroke-width="1" fill="none" stroke-dasharray="4,2"/>
+<path d="M 310 61 v 28" stroke="#0000FF" stroke-width="1" fill="none" stroke-dasharray="4,2"/>
+<path d="M 350 61 v 28" stroke="#0000FF" stroke-width="1" fill="none" stroke-dasharray="4,2"/>
+<path d="M 370 61 v 28" stroke="#0000FF" stroke-width="1" fill="none" stroke-dasharray="4,2"/>
+<path d="M 390 61 v 28" stroke="#0000FF" stroke-width="1" fill="none" stroke-dasharray="4,2"/>
+<path d="M 420 61 v 28" stroke="#0000FF" stroke-width="1" fill="none" stroke-dasharray="4,2"/>
+<rect x="420" y="60" width="140" height="30" style="fill:rgb(213,232,212);stroke:#0000FF;stroke-width:1" />
+<text x="460" y="80" style="font-size:13px;font-family:'Arial'">WAL data</text>
+
+<path d="M 250 93 v 3 a 5 5 0 0 0 5 5 h 145 a 5 5 0 0 1 5 5 a 5 5 0 0 1 5 -5 h 145 a 5 5 0 0 0 5 -5 v -3" stroke="#000000" stroke-width="1" fill="none"/>
+<circle cx="265" cy="75" r="3" fill="#000000" />
+<path d="M 265 75 v 55 h 140 v -10" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)" />
+<circle cx="330" cy="75" r="3" fill="#000000" />
+<path d="M 330 75 v -40 H 120 V 45" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)" />
+<text x="290" y="145" style="font-size:15px;font-family:'Courier New'">xl_tot_len</text>
+<text x="190" y="25" style="font-size:15px;font-family:'Courier New'">xl_prev</text>
+<circle cx="405" cy="75" r="3" fill="#000000" />
+<path d="M 405 75 v -40 h 40 " stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)" />
+<text x="460" y="37" style="font-size:15px;font-family:'Courier New'">xl_crc</text>
+<circle cx="380" cy="75" r="3" fill="#000000" />
+<path d="M 380 75 v -30" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)" />
+<text x="345" y="28" style="font-size:15px;font-family:'Courier New'">xl_rmid</text>
+</svg>
