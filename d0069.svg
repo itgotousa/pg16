@@ -1,0 +1,54 @@
+<svg version="1.1" width="600" height="430" xmlns="http://www.w3.org/2000/svg">
+<defs><marker id="arrowhead" markerWidth="10" markerHeight="7" refX="0" refY="3.5" orient="auto"><polygon points="0 0, 10 3.5, 0 7" /></marker></defs>
+
+
+<path d="M 300 20 l 100 100 h -200 l 100 -100" stroke="#0000FF" stroke-width="1" fill="none" />
+<path d="M 270 50 h 60 " stroke="#0000FF" stroke-width="1" fill="none" />
+<path d="M 240 80 h 120 " stroke="#0000FF" stroke-width="1" fill="none" />
+<path d="M 300 20 l -15 30 l 40 30 l -75 40 v 18" stroke="#000000" stroke-width="1" fill="none" stroke-dasharray="3,3" marker-end="url(#arrowhead)"/>
+<circle cx="285" cy="50" r="2" fill="#FF0000" stroke="#FF0000" stroke-width="2" />
+<circle cx="325" cy="80" r="2" fill="#FF0000" stroke="#FF0000" stroke-width="2" />
+<circle cx="250" cy="120" r="2" fill="#FF0000" stroke="#FF0000" stroke-width="2" />
+
+<rect x="250" y="150" width="160" height="50" style="fill:none;stroke:#0000FF;stroke-width:1" />
+<text x="310" y="169" style="font-size:13px;font-family:'Arial'">key='TX'</text>
+<text x="260" y="189" style="font-size:13px;font-family:'Arial'">TID=(block=76,offset=1)</text>
+
+<path d="M 235 175 h -5" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)"/>
+<path d="M 235 175 h 5" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)"/>
+<rect x="100" y="150" width="120" height="50" style="fill:none;stroke:#0000FF;stroke-width:1" />
+
+<rect x="440" y="150" width="120" height="50" style="fill:none;stroke:#0000FF;stroke-width:1" />
+<path d="M 425 175 h -5" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)"/>
+<path d="M 425 175 h 5" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)"/>
+
+<path d="M 300 20 l -15 30 l 40 30 l -75 40 v 18" stroke="#000000" stroke-width="1" fill="none" stroke-dasharray="3,3" marker-end="url(#arrowhead)"/>
+
+<rect x="100" y="240" width="400" height="150" style="fill:none;stroke:#0000FF;stroke-width:1" />
+<path d="M 100 240 h 400 v 30 h -200 v 30 h -200 v -60 z" stroke="#000000" stroke-width="1" fill="rgb(213,232,212)"/>
+
+<rect x="300" y="270" width="100" height="30" style="fill:#DAE8FC;stroke:#0000FF;stroke-width:1" />
+<text x="110" y="260" style="font-size:15px;font-family:'Arial'">page header</text>
+<path d="M 350 270 v 30" stroke="#0000FF" stroke-width="1" fill="none"/>
+<text x="323" y="290" style="font-size:15px;font-family:'Arial'">1</text>
+<text x="373" y="290" style="font-size:15px;font-family:'Arial'">2</text>
+
+<rect x="370" y="360" width="130" height="30" style="fill:rgb(255,254,214);stroke:#0000FF;stroke-width:1" />
+<text x="410" y="378" style="font-size:15px;font-family:'Arial'">tuple 1</text>
+<rect x="270" y="360" width="100" height="30" style="fill:#DAE8FC;stroke:#0000FF;stroke-width:1" />
+<text x="300" y="378" style="font-size:15px;font-family:'Arial'">tuple 2</text>
+
+<path d="M 505 240 h 5 a 5 5 0 0 1 5 5 v 65 a 5 5 0 0 0 5 5 a 5 5 0 0 0 -5 5 v 65 a 5 5 0 0 1 -5 5 h -5" stroke="#000000" stroke-width="1" fill="none"/>
+<text x="525" y="318" style="font-size:15px;font-family:'Arial'">page 76</text>
+
+<path d="M 325 205 V 258" stroke="#000000" stroke-width="1" fill="none" stroke-dasharray="3,3" marker-end="url(#arrowhead)"/>
+
+<path d="M 325 302 v 25 h 40 v -16" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)"/>
+
+<path d="M 390 302 v 32 H 270 V 348" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)"/>
+
+<path d="M 390 390 v 10 a 60 20 0 0 1 -120 0" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)"/>
+
+<text x="397" y="405" style="font-size:13px;font-family:'Courier New'">t_ctid</text>
+
+</svg>
