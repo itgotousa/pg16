@@ -41,4 +41,24 @@
 
 <text x="280" y="65" style="font-size:13px;font-family:'Arial'">WAL records</text>
 
+<g transform="translate(30, 60)">
+<ellipse cx="30" cy="10" rx="30" ry="10" style="fill:rgb(115,131,191);stroke:rgb(115,131,191);stroke-width:1" />
+<path d="M 1 15 a 30 10 0 0 0 60 0 v 15 a 30 10 0 0 1 -60 0 v -15" stroke="rgb(115,131,191)" stroke-width="1" fill="rgb(115,131,191)"/>
+<path d="M 1 35 a 30 10 0 0 0 60 0 v 15 a 30 10 0 0 1 -60 0 v -15" stroke="rgb(115,131,191)" stroke-width="1" fill="rgb(115,131,191)"/>
+<path d="M 1 55 a 30 10 0 0 0 60 0 v 15 a 30 10 0 0 1 -60 0 v -15" stroke="rgb(115,131,191)" stroke-width="1" fill="rgb(115,131,191)"/>
+<circle cx="50" cy="29" r="3" fill="#FFFFFF" />
+<circle cx="50" cy="49" r="3" fill="#FFFFFF" />
+<circle cx="50" cy="69" r="3" fill="#FFFFFF" />
+</g>
+
+<g transform="translate(525, 60)">
+<ellipse cx="30" cy="10" rx="30" ry="10" style="fill:rgb(115,131,191);stroke:rgb(115,131,191);stroke-width:1" />
+<path d="M 1 15 a 30 10 0 0 0 60 0 v 15 a 30 10 0 0 1 -60 0 v -15" stroke="rgb(115,131,191)" stroke-width="1" fill="rgb(115,131,191)"/>
+<path d="M 1 35 a 30 10 0 0 0 60 0 v 15 a 30 10 0 0 1 -60 0 v -15" stroke="rgb(115,131,191)" stroke-width="1" fill="rgb(115,131,191)"/>
+<path d="M 1 55 a 30 10 0 0 0 60 0 v 15 a 30 10 0 0 1 -60 0 v -15" stroke="rgb(115,131,191)" stroke-width="1" fill="rgb(115,131,191)"/>
+<circle cx="50" cy="29" r="3" fill="#FFFFFF" />
+<circle cx="50" cy="49" r="3" fill="#FFFFFF" />
+<circle cx="50" cy="69" r="3" fill="#FFFFFF" />
+</g>
+  
 </svg>
