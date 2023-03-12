@@ -31,7 +31,7 @@
 <text x="323" y="290" style="font-size:15px;font-family:'Arial'">1</text>
 
 <rect x="370" y="360" width="130" height="30" style="fill:#DAE8FC;stroke:#0000FF;stroke-width:1" />
-<text x="400" y="378" style="font-size:15px;font-family:'Arial'">tuple 1</text>
+<text x="410" y="378" style="font-size:15px;font-family:'Arial'">tuple 1</text>
 
 <path d="M 505 240 h 5 a 5 5 0 0 1 5 5 v 65 a 5 5 0 0 0 5 5 a 5 5 0 0 0 -5 5 v 65 a 5 5 0 0 1 -5 5 h -5" stroke="#000000" stroke-width="1" fill="none"/>
 <text x="525" y="318" style="font-size:15px;font-family:'Arial'">page 76</text>
