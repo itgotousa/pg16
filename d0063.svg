@@ -23,4 +23,8 @@
 
 <text x="20" y="197" style="font-size:15px;font-family:'Arial'">BLCKSZ</text>
 <text x="240" y="197" style="font-size:15px;font-family:'Arial'">RELSEG_SIZE * BLCKSZ</text>
+
+<text x="300" y="115" style="font-size:15px;font-family:'Arial'">segment</text>
+<text x="490" y="115" style="font-size:15px;font-family:'Arial'">segment</text>
+  
 </svg>
