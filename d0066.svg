@@ -37,5 +37,5 @@
 <text x="525" y="318" style="font-size:15px;font-family:'Arial'">page 76</text>
 
 <path d="M 325 205 V 258" stroke="#000000" stroke-width="1" fill="none" stroke-dasharray="3,3" marker-end="url(#arrowhead)"/>
-<path d="M 325 305 v 70 h 30" stroke="#000000" stroke-width="1" fill="none" stroke-dasharray="3,3" marker-end="url(#arrowhead)"/>
+<path d="M 325 305 v 70 h 30" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)"/>
 </svg>
