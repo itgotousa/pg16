@@ -1,0 +1,31 @@
+<svg version="1.1" width="600" height="100" xmlns="http://www.w3.org/2000/svg">
+<defs><marker id="arrowhead" markerWidth="10" markerHeight="7" refX="0" refY="3.5" orient="auto"><polygon points="0 0, 10 3.5, 0 7" /></marker></defs>
+
+<path d="M 20 50 h 560" stroke="#0000FF" stroke-width="1" fill="none" marker-end="url(#arrowhead)" />
+<path d="M 300 10 v 80" stroke="#000000" stroke-width="1" fill="none" stroke-dasharray="3,3"/>
+<path d="M 295 20 h -30" stroke="#0000FF" stroke-width="1" fill="none" marker-end="url(#arrowhead)" />
+<path d="M 305 20 h 30" stroke="#0000FF" stroke-width="1" fill="none" marker-end="url(#arrowhead)" />
+<text x="225" y="25" style="font-size:13px;font-family:'Arial'">past</text>
+<text x="350" y="25" style="font-size:13px;font-family:'Arial'">future</text>
+
+<circle cx="60" cy="50" r="15" fill="#FFFFFF" stroke="#0000FF" stroke-width="1" />
+<circle cx="120" cy="50" r="15" fill="#FFFFFF" stroke="#0000FF" stroke-width="1" />
+<circle cx="180" cy="50" r="15" fill="#FFFFFF" stroke="#0000FF" stroke-width="1" />
+<circle cx="240" cy="50" r="15" fill="#FFFFFF" stroke="#0000FF" stroke-width="1" />
+<circle cx="300" cy="50" r="15" fill="rgb(248,206,204)" stroke="#0000FF" stroke-width="1" />
+<circle cx="360" cy="50" r="15" fill="#FFFFFF" stroke="#0000FF" stroke-width="1" stroke-dasharray="3,3"/>
+<circle cx="420" cy="50" r="15" fill="#FFFFFF" stroke="#0000FF" stroke-width="1" stroke-dasharray="3,3"/>
+<circle cx="480" cy="50" r="15" fill="#FFFFFF" stroke="#0000FF" stroke-width="1" stroke-dasharray="3,3"/>
+<circle cx="540" cy="50" r="15" fill="#FFFFFF" stroke="#0000FF" stroke-width="1" stroke-dasharray="3,3"/>
+
+<text x="53" y="55" style="font-size:13px;font-family:'Arial'">96</text>
+<text x="113" y="55" style="font-size:13px;font-family:'Arial'">97</text>
+<text x="173" y="55" style="font-size:13px;font-family:'Arial'">98</text>
+<text x="233" y="55" style="font-size:13px;font-family:'Arial'">99</text>
+
+<text x="290" y="55" style="font-size:13px;font-family:'Arial'">100</text>
+<text x="350" y="55" style="font-size:13px;font-family:'Arial'">101</text>
+<text x="410" y="55" style="font-size:13px;font-family:'Arial'">102</text>
+<text x="470" y="55" style="font-size:13px;font-family:'Arial'">103</text>
+<text x="530" y="55" style="font-size:13px;font-family:'Arial'">104</text>
+</svg>
