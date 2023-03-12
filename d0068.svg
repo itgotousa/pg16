@@ -44,6 +44,7 @@
 <path d="M 325 205 V 258" stroke="#000000" stroke-width="1" fill="none" stroke-dasharray="3,3" marker-end="url(#arrowhead)"/>
 
 <path d="M 325 305 v 20 H 370 V 348" stroke="#000000" stroke-width="1" fill="none" stroke-dasharray="3,3" marker-end="url(#arrowhead)"/>
+<path d="M 375 305 v 15 H 270 V 348" stroke="#000000" stroke-width="1" fill="none" stroke-dasharray="3,3" marker-end="url(#arrowhead)"/>
 
 <path d="M 390 390 v 10 a 60 20 0 0 1 -120 0" stroke="#000000" stroke-width="1" fill="none" stroke-dasharray="3,3" marker-end="url(#arrowhead)"/>
 
