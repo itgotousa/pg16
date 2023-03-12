@@ -1,0 +1,33 @@
+<svg version="1.1" width="600" height="190" xmlns="http://www.w3.org/2000/svg">
+<defs><marker id="arrowhead" markerWidth="10" markerHeight="7" refX="0" refY="3.5" orient="auto"><polygon points="0 0, 10 3.5, 0 7" /></marker></defs>
+
+<text x="150" y="25" style="font-size:13px;font-family:'Courier New'">HeapTupleHeaderData</text>
+<path d="M 20 50 v 50" stroke="#000000" stroke-width="1" fill="none" stroke-dasharray="3,3"/>
+<path d="M 400 50 v 50" stroke="#000000" stroke-width="1" fill="none" stroke-dasharray="3,3"/>
+<path d="M 20 47 v -3 a 5 5 0 0 1 5 -5 h 180 a 5 5 0 0 0 5 -5 a 5 5 0 0 0 5 5 h 180 a 5 5 0 0 1 5 5 v 3" stroke="#000000" stroke-width="1" fill="none" />
+
+<rect x="20" y="100" width="560" height="30" style="fill:none;stroke:#0000FF;stroke-width:1" />
+<rect x="400" y="100" width="180" height="30" style="fill:rgb(213,232,212);stroke:#0000FF;stroke-width:1" />
+<text x="450" y="120" style="font-size:15px;font-family:'Arial'">real data</text>
+
+<path d="M 70 100 v 30" stroke="#0000FF" stroke-width="1" fill="none" />
+<path d="M 120 100 v 30" stroke="#0000FF" stroke-width="1" fill="none" />
+<path d="M 170 100 v 30" stroke="#0000FF" stroke-width="1" fill="none" />
+<path d="M 260 100 v 30" stroke="#0000FF" stroke-width="1" fill="none" />
+<path d="M 290 100 v 30" stroke="#0000FF" stroke-width="1" fill="none" />
+<path d="M 320 100 v 30" stroke="#0000FF" stroke-width="1" fill="none" />
+<path d="M 340 100 v 30" stroke="#0000FF" stroke-width="1" fill="none" />
+
+
+<path d="M 45 115 v -30" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)"/>
+<path d="M 95 115 v 30" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)"/>
+<path d="M 215 115 v 30" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)"/>
+
+<circle cx="45" cy="115" r="3" fill="#FF0000" stroke="#000000" stroke-width="2" />
+<circle cx="95" cy="115" r="3" fill="#FF0000" stroke="#000000" stroke-width="2" />
+<circle cx="215" cy="115" r="3" fill="#FF0000" stroke="#000000" stroke-width="2" />
+
+<text x="25" y="68" style="font-size:13px;font-family:'Courier New'">t_xmin</text>
+<text x="70" y="168" style="font-size:13px;font-family:'Courier New'">t_xmax</text>
+<text x="190" y="168" style="font-size:13px;font-family:'Courier New'">t_ctid</text>
+</svg>
