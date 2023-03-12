@@ -1,0 +1,21 @@
+<svg version="1.1" width="600" height="150" xmlns="http://www.w3.org/2000/svg">
+<defs><marker id="arrowhead" markerWidth="10" markerHeight="7" refX="0" refY="3.5" orient="auto"><polygon points="0 0, 10 3.5, 0 7" /></marker></defs>
+
+<path d="M 20 60 h 560" stroke="#0000FF" stroke-width="1" fill="none"/>
+<path d="M 20 90 h 560" stroke="#0000FF" stroke-width="1" fill="none"/>
+<rect x="40" y="60" width="520" height="30" style="fill:none;stroke:#0000FF;stroke-width:1" />
+<path d="M 120 60 v 30" stroke="#0000FF" stroke-width="1" fill="none"/>
+<path d="M 250 60 v 30" stroke="#0000FF" stroke-width="1" fill="none"/>
+<path d="M 410 60 v 30" stroke="#0000FF" stroke-width="1" fill="none"/>
+
+<path d="M 250 93 v 3 a 5 5 0 0 0 5 5 h 70 a 5 5 0 0 1 5 5 a 5 5 0 0 1 5 -5 h 70 a 5 5 0 0 0 5 -5 v -3" stroke="#000000" stroke-width="1" fill="none"/>
+<text x="290" y="120" style="font-size:15px;font-family:'Arial'">WAL record</text>
+
+<path d="M 250 30 V 45" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)" />
+<text x="220" y="25" style="font-size:15px;font-family:'Arial'">valid LSN</text>
+<path d="M 350 30 V 45" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)" />
+<text x="310" y="25" style="font-size:15px;font-family:'Arial'">invalid LSN</text>
+<path d="M 410 30 V 45" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)" />
+<text x="400" y="25" style="font-size:15px;font-family:'Arial'">valid LSN</text>
+<path d="M 355 40 H 395" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)" stroke-dasharray="3,3" />
+</svg>
