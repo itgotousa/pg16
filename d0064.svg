@@ -1,0 +1,68 @@
+idth="600" height="480" xmlns="http://www.w3.org/2000/svg">
+<defs><marker id="arrowhead" markerWidth="10" markerHeight="7" refX="0" refY="3.5" orient="auto"><polygon points="0 0, 10 3.5, 0 7" /></marker></defs>
+
+<path d="M 100 20 v 20" stroke="#000000" stroke-width="1" fill="none" stroke-dasharray="3,3"/>
+<path d="M 500 20 v 20" stroke="#000000" stroke-width="1" fill="none" stroke-dasharray="3,3"/>
+<path d="M 100 440 v 20" stroke="#000000" stroke-width="1" fill="none" stroke-dasharray="3,3"/>
+<path d="M 500 440 v 20" stroke="#000000" stroke-width="1" fill="none" stroke-dasharray="3,3"/>
+
+<rect x="100" y="40" width="400" height="400" style="fill:none;stroke:#0000FF;stroke-width:1" />
+<rect x="100" y="40" width="400" height="60" style="fill:rgb(213,232,212);stroke:#0000FF;stroke-width:1" />
+<rect x="300" y="70" width="200" height="30" style="fill:#DAE8FC;stroke:#0000FF;stroke-width:1" />
+<path d="M 350 70 v 30" stroke="#0000FF" stroke-width="1" fill="none" />
+<path d="M 400 70 v 30" stroke="#0000FF" stroke-width="1" fill="none" />
+<path d="M 450 70 v 30" stroke="#0000FF" stroke-width="1" fill="none" />
+
+<text x="240" y="60" style="font-size:15px;font-family:'Arial'">page header</text>
+<text x="323" y="90" style="font-size:15px;font-family:'Arial'">1</text>
+<text x="373" y="90" style="font-size:15px;font-family:'Arial'">2</text>
+<text x="423" y="90" style="font-size:15px;font-family:'Arial'">3</text>
+<text x="473" y="90" style="font-size:15px;font-family:'Arial'">4</text>
+
+<path d="M 335 85 h 25" stroke="#000000" stroke-width="1" fill="none" stroke-dasharray="3,3" marker-end="url(#arrowhead)"/>
+<path d="M 385 85 h 25" stroke="#000000" stroke-width="1" fill="none" stroke-dasharray="3,3" marker-end="url(#arrowhead)"/>
+<path d="M 435 85 h 25" stroke="#000000" stroke-width="1" fill="none" stroke-dasharray="3,3" marker-end="url(#arrowhead)"/>
+
+<rect x="100" y="190" width="400" height="60" style="fill:rgb(213,232,212);stroke:#0000FF;stroke-width:1" />
+<rect x="300" y="220" width="200" height="30" style="fill:#DAE8FC;stroke:#0000FF;stroke-width:1" />
+<path d="M 350 220 v 30" stroke="#0000FF" stroke-width="1" fill="none" />
+<path d="M 400 220 v 30" stroke="#0000FF" stroke-width="1" fill="none" />
+<path d="M 450 220 v 30" stroke="#0000FF" stroke-width="1" fill="none" />
+<text x="240" y="210" style="font-size:15px;font-family:'Arial'">page header</text>
+
+<text x="323" y="240" style="font-size:15px;font-family:'Arial'">1</text>
+<text x="373" y="240" style="font-size:15px;font-family:'Arial'">2</text>
+<text x="423" y="240" style="font-size:15px;font-family:'Arial'">3</text>
+<text x="473" y="240" style="font-size:15px;font-family:'Arial'">4</text>
+
+<path d="M 335 235 h 25" stroke="#000000" stroke-width="1" fill="none" stroke-dasharray="3,3" marker-end="url(#arrowhead)"/>
+<path d="M 385 235 h 25" stroke="#000000" stroke-width="1" fill="none" stroke-dasharray="3,3" marker-end="url(#arrowhead)"/>
+<path d="M 435 235 h 25" stroke="#000000" stroke-width="1" fill="none" stroke-dasharray="3,3" marker-end="url(#arrowhead)"/>
+
+<rect x="100" y="340" width="400" height="60" style="fill:rgb(213,232,212);stroke:#0000FF;stroke-width:1" />
+<rect x="300" y="370" width="200" height="30" style="fill:#DAE8FC;stroke:#0000FF;stroke-width:1" />
+<path d="M 350 370 v 30" stroke="#0000FF" stroke-width="1" fill="none" />
+<path d="M 400 370 v 30" stroke="#0000FF" stroke-width="1" fill="none" />
+<path d="M 450 370 v 30" stroke="#0000FF" stroke-width="1" fill="none" />
+<text x="240" y="360" style="font-size:15px;font-family:'Arial'">page header</text>
+
+<text x="323" y="390" style="font-size:15px;font-family:'Arial'">1</text>
+<text x="373" y="390" style="font-size:15px;font-family:'Arial'">2</text>
+<text x="423" y="390" style="font-size:15px;font-family:'Arial'">3</text>
+<text x="473" y="390" style="font-size:15px;font-family:'Arial'">4</text>
+
+<path d="M 335 385 h 25" stroke="#000000" stroke-width="1" fill="none" stroke-dasharray="3,3" marker-end="url(#arrowhead)"/>
+<path d="M 385 385 h 25" stroke="#000000" stroke-width="1" fill="none" stroke-dasharray="3,3" marker-end="url(#arrowhead)"/>
+<path d="M 435 385 h 25" stroke="#000000" stroke-width="1" fill="none" stroke-dasharray="3,3" marker-end="url(#arrowhead)"/>
+
+<path d="M 375 20 L 340 58" stroke="#000000" stroke-width="1" fill="none" stroke-dasharray="3,3" marker-end="url(#arrowhead)"/>
+<path d="M 475 105 l -135 105" stroke="#000000" stroke-width="1" fill="none" stroke-dasharray="3,3" marker-end="url(#arrowhead)"/>
+<path d="M 475 255 l -135 105" stroke="#000000" stroke-width="1" fill="none" stroke-dasharray="3,3" marker-end="url(#arrowhead)"/>
+
+<path d="M 505 40 h 5 a 5 5 0 0 1 5 5 v 65 a 5 5 0 0 0 5 5 a 5 5 0 0 0 -5 5 v 65 a 5 5 0 0 1 -5 5 h -5" stroke="#000000" stroke-width="1" fill="none"/>
+
+<path d="M 505 190 h 5 a 5 5 0 0 1 5 5 v 65 a 5 5 0 0 0 5 5 a 5 5 0 0 0 -5 5 v 65 a 5 5 0 0 1 -5 5 h -5" stroke="#000000" stroke-width="1" fill="none"/>
+
+<text x="525" y="118" style="font-size:15px;font-family:'Arial'">page n</text>
+<text x="525" y="268" style="font-size:15px;font-family:'Arial'">page n+1</text>
+</svg>
