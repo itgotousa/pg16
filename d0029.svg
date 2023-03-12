@@ -20,21 +20,21 @@
 <path d="M 470 220 v 40" stroke="#0000FF" stroke-width="1" fill="none" />
 
 <text x="75" y="45" style="font-size:15px;font-family:'Arial'">page header</text>
-<text x="235" y="45" style="font-size:15px;font-family:'Arial'">lp[0]</text>
-<text x="295" y="45" style="font-size:15px;font-family:'Arial'">lp[1]</text>
-<text x="355" y="45" style="font-size:15px;font-family:'Arial'">lp[2]</text>
-<text x="415" y="45" style="font-size:15px;font-family:'Arial'">lp[3]</text>
-<text x="475" y="45" style="font-size:15px;font-family:'Arial'">lp[4]</text>
-<text x="535" y="45" style="font-size:15px;font-family:'Arial'">lp[5]</text>
+<text x="235" y="45" style="font-size:15px;font-family:'Arial'">lp[1]</text>
+<text x="295" y="45" style="font-size:15px;font-family:'Arial'">lp[2]</text>
+<text x="355" y="45" style="font-size:15px;font-family:'Arial'">lp[3]</text>
+<text x="415" y="45" style="font-size:15px;font-family:'Arial'">lp[4]</text>
+<text x="475" y="45" style="font-size:15px;font-family:'Arial'">lp[5]</text>
+<text x="535" y="45" style="font-size:15px;font-family:'Arial'">lp[6]</text>
 
 <text x="155" y="85" style="font-size:15px;font-family:'Arial'">lp[n]</text>
 
 <text x="482" y="285" style="font-size:15px;font-family:'Arial'">special space</text>
-<text x="382" y="285" style="font-size:15px;font-family:'Arial'">tuple 0</text>
-<text x="240" y="285" style="font-size:15px;font-family:'Arial'">tuple 1</text>
-<text x="70" y="285" style="font-size:15px;font-family:'Arial'">tuple 2</text>
-<text x="500" y="245" style="font-size:15px;font-family:'Arial'">tuple 3</text>
-<text x="365" y="245" style="font-size:15px;font-family:'Arial'">tuple 4</text>
+<text x="382" y="285" style="font-size:15px;font-family:'Arial'">tuple 1</text>
+<text x="240" y="285" style="font-size:15px;font-family:'Arial'">tuple 2</text>
+<text x="70" y="285" style="font-size:15px;font-family:'Arial'">tuple 3</text>
+<text x="500" y="245" style="font-size:15px;font-family:'Arial'">tuple 4</text>
+<text x="365" y="245" style="font-size:15px;font-family:'Arial'">tuple 5</text>
 
 <path d="M 295 240 h -40" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)"  />
 <path d="M 205 80 h 40" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)"  />
