@@ -2,6 +2,10 @@
 <defs><marker id="arrowhead" markerWidth="10" markerHeight="7" refX="0" refY="3.5" orient="auto"><polygon points="0 0, 10 3.5, 0 7" /></marker></defs>
 
 <path d="M 300 40 l 100 100 h -200 l 100 -100" stroke="#0000FF" stroke-width="1" fill="none" />
+<path d="M 270 70 h 60 " stroke="#0000FF" stroke-width="1" fill="none" />
+<path d="M 240 100 h 120 " stroke="#0000FF" stroke-width="1" fill="none" />
+
+
 <rect x="200" y="170" width="360" height="30" style="fill:none;stroke:#0000FF;stroke-width:1" />
 <text x="205" y="188" style="font-size:25px;font-family:'Arial'">......</text>
 <text x="500" y="188" style="font-size:25px;font-family:'Arial'">......</text>
