@@ -1,4 +1,4 @@
-idth="600" height="480" xmlns="http://www.w3.org/2000/svg">
+<svg version="1.1" width="600" height="480" xmlns="http://www.w3.org/2000/svg">
 <defs><marker id="arrowhead" markerWidth="10" markerHeight="7" refX="0" refY="3.5" orient="auto"><polygon points="0 0, 10 3.5, 0 7" /></marker></defs>
 
 <path d="M 100 20 v 20" stroke="#000000" stroke-width="1" fill="none" stroke-dasharray="3,3"/>
