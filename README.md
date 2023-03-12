@@ -30,7 +30,8 @@ Any suggestion please send to itgotousa@gmail.com. Thx!
 ## 致谢
 
 在本书的写作过程中，我不断在互联网上汲取各位前辈对PostgreSQL技术内幕的探索成果，心中对这些赠人玫瑰的义士们充满感谢。这里尤为要特别感谢如下人士和组织：
-日本的铃木启修先生，阿里云数据库内核小组，美国的Bruce Momjian先生。
+
+日本的铃木启修先生，阿里云数据库内核小组，俄罗斯的Egor Rogov先生，美国的Bruce Momjian先生。
 
 
 
