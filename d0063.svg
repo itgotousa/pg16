@@ -1,0 +1,26 @@
+<svg version="1.1" width="600" height="220" xmlns="http://www.w3.org/2000/svg">
+<defs><marker id="arrowhead" markerWidth="10" markerHeight="7" refX="0" refY="3.5" orient="auto"><polygon points="0 0, 10 3.5, 0 7" /></marker></defs>
+
+<text x="280" y="25" style="font-size:15px;font-family:'Arial'">data file</text>
+<path d="M 20 55 v -5 a 10 10 0 0 1 10 -10 h 260 a 10 10 0 0 0 10 -10 a 10 10 0 0 0 10 10 h 260 a 10 10 0 0 1 10 10 v 5" stroke="#000000" stroke-width="1" fill="none"/>
+
+<rect x="20" y="60" width="240" height="100" style="fill:rgb(213,232,212);stroke:#0000FF;stroke-width:1" />
+<path d="M 80 60 v 100" stroke="#0000FF" stroke-width="1" fill="none" />
+<path d="M 140 60 v 100" stroke="#0000FF" stroke-width="1" fill="none" />
+<path d="M 200 60 v 100" stroke="#0000FF" stroke-width="1" fill="none" />
+<rect x="270" y="60" width="120" height="100" style="fill:rgb(213,232,212);stroke:#0000FF;stroke-width:1" />
+<rect x="460" y="60" width="120" height="100" style="fill:rgb(213,232,212);stroke:#0000FF;stroke-width:1" />
+<text x="395" y="110" style="font-size:35px;font-family:'Arial'">......</text>
+<text x="150" y="110" style="font-size:25px;font-family:'Arial'">......</text>
+
+<path d="M 20 165 v 5 a 5 5 0 0 0 5 5 h 20 a 5 5 0 0 1 5 5 a 5 5 0 0 1 5 -5 h 20 a 5 5 0 0 0 5 -5 v -5" stroke="#000000" stroke-width="1" fill="none"/>
+<path d="M 270 165 v 5 a 5 5 0 0 0 5 5 h 50 a 5 5 0 0 1 5 5 a 5 5 0 0 1 5 -5 h 50 a 5 5 0 0 0 5 -5 v -5" stroke="#000000" stroke-width="1" fill="none"/>
+<path d="M 460 165 v 5 a 5 5 0 0 0 5 5 h 50 a 5 5 0 0 1 5 5 a 5 5 0 0 1 5 -5 h 50 a 5 5 0 0 0 5 -5 v -5" stroke="#000000" stroke-width="1" fill="none"/>
+
+<text x="45" y="80" style="font-size:15px;font-family:'Arial'">0</text>
+<text x="105" y="80" style="font-size:15px;font-family:'Arial'">1</text>
+<text x="225" y="80" style="font-size:15px;font-family:'Arial'">n</text>
+
+<text x="20" y="197" style="font-size:15px;font-family:'Arial'">BLCKSZ</text>
+<text x="240" y="197" style="font-size:15px;font-family:'Arial'">RELSEG_SIZE * BLCKSZ</text>
+</svg>
