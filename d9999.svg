@@ -47,7 +47,7 @@
 <path d="M 35 105 v 5" stroke="#000000" stroke-width="2" fill="none" />
 </g>
   
-<path d="M 200,200 q 20 15 40 0 q 20 -20 40 -10 v -40 h -80 z " fill="rgb(122,171,212)" stroke="#0000FF" stroke-width="1" />
+<path d="M 400,200 q 20 15 40 0 q 20 -20 40 -10 v -40 h -80 z " fill="rgb(122,171,212)" stroke="#0000FF" stroke-width="1" />
 
 </svg>
 
