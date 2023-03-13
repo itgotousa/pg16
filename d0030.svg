@@ -35,7 +35,7 @@
 <path d="M 280 285 V 265" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)"  />
 <path d="M 86 270 h 180" stroke="#000000" stroke-width="1" fill="none" stroke-dasharray="5,3" marker-end="url(#arrowhead)"  />
 
-<text x="45" y="305" style="font-size:15px;font-family:'Arial'">REDO point</text>
+<text x="45" y="305" style="font-size:15px;font-family:'Arial'">RedoPoint</text>
 <text x="230" y="305" style="font-size:15px;font-family:'Arial'">recovery target</text>
 </g>
 </g>
