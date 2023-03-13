@@ -1,0 +1,26 @@
+<svg version="1.1" width="600" height="220" xmlns="http://www.w3.org/2000/svg">
+<defs><marker id="arrowhead" markerWidth="10" markerHeight="7" refX="0" refY="3.5" orient="auto"><polygon points="0 0, 10 3.5, 0 7" /></marker></defs>
+
+<g transform="translate(0, -20)">
+<rect x="20" y="40" width="560" height="200" style="fill:none;stroke:#0000FF;stroke-width:1" />
+<rect x="40" y="50" width="200" height="30" style="fill:#DAE8FC;stroke:#0000FF;stroke-width:1" />
+<text x="110" y="69" style="font-size:13px;font-family:'Arial'">WAL buffer</text>
+<rect x="300" y="50" width="260" height="30" style="fill:#DAE8FC;stroke:#0000FF;stroke-width:1" />
+<text x="410" y="69" style="font-size:13px;font-family:'Arial'">others</text>
+
+<rect x="40" y="120" width="520" height="80" style="fill:#DAE8FC;stroke:#0000FF;stroke-width:1" />
+<path d="M 500 120 v 80 " stroke="#0000FF" stroke-width="1" fill="none" />
+<path d="M 100 120 v 80 " stroke="#0000FF" stroke-width="1" fill="none" />
+<path d="M 160 120 v 80 " stroke="#0000FF" stroke-width="1" fill="none" />
+<path d="M 220 120 v 80 " stroke="#0000FF" stroke-width="1" fill="none" />
+<path d="M 280 120 v 80 " stroke="#0000FF" stroke-width="1" fill="none" />
+<path d="M 340 120 v 80 " stroke="#0000FF" stroke-width="1" fill="none" />
+<path d="M 40 203 v 5 a 5 5 0 0 0 5 5 h 20 a 5 5 0 0 1 5 5 a 5 5 0 0 1 5 -5 h 20 a 5 5 0 0 0 5 -5 v -5" stroke="#000000" stroke-width="1" fill="none" />
+<text x="42" y="232" style="font-size:15px;font-family:'Courier New'">BLCKSZ</text>
+<text x="220" y="97" style="font-size:15px;font-family:'Courier New'">NBuffers * BLCKSZ</text>
+<path d="M 40 117 v -5 a 5 5 0 0 1 5 -5 h 250 a 5 5 0 0 0 5 -5 a 5 5 0 0 0 5 5 h 250 a 5 5 0 0 1 5 5 v 5" stroke="#000000" stroke-width="1" fill="none" />
+<text x="370" y="140" style="font-size:13px;font-family:'Arial'">shared buffer pool</text>
+<text x="390" y="170" style="font-size:35px;font-family:'Arial'">......</text>
+<text x="260" y="230" style="font-size:15px;font-family:'Arial'">shared memory</text>
+</g>
+</svg>
