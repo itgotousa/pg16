@@ -1,0 +1,46 @@
+<svg version="1.1" width="600" height="460" xmlns="http://www.w3.org/2000/svg">
+<defs><marker id="arrowhead" markerWidth="10" markerHeight="7" refX="0" refY="3.5" orient="auto"><polygon points="0 0, 10 3.5, 0 7" /></marker></defs>
+
+<path d="M 300 20 h 70 a 15 15 0 0 1 0 30 h -140 a 15 15 0 0 1 0 -30 h 70" stroke="#0000FF" stroke-width="1" fill="none" />
+<text x="232" y="38" style="font-size:13px;font-family:'Courier New'">void StartupXLOG()</text>
+<path d="M 300 52 v 10 " stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)" />
+
+<path d="M 300 75 l 100 20 l -100 20 l -100 -20 l 100 -20" stroke="#0000FF" stroke-width="1" fill="none" />
+<text x="238" y="98" style="font-size:13px;font-family:'Courier New'">standby.signal?</text>
+<path d="M 300 117 v 10 " stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)" />
+
+<path d="M 402 95 h 78 v 37" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)" />
+<rect x="420" y="145" width="120" height="30" style="fill:none;stroke:#0000FF;stroke-width:1" />
+<text x="432" y="165" style="font-size:13px;font-family:'Arial'">mode=STANDBY</text>
+
+<path d="M 480 177 V 250 H 312" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)" />
+
+<path d="M 300 140 l 100 20 l -100 20 l -100 -20 l 100 -20" stroke="#0000FF" stroke-width="1" fill="none" />
+<text x="235" y="163" style="font-size:13px;font-family:'Courier New'">recovery.signal?</text>
+<path d="M 198 160 h -78 v 33" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)" />
+<rect x="60" y="205" width="120" height="30" style="fill:none;stroke:#0000FF;stroke-width:1" />
+<text x="72" y="225" style="font-size:13px;font-family:'Arial'">mode=ARCHIVE</text>
+
+<path d="M 120 237 V 250 H 288" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)" />
+
+<path d="M 300 182 v 10 " stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)" />
+<rect x="240" y="205" width="120" height="30" style="fill:none;stroke:#0000FF;stroke-width:1" />
+<text x="254" y="225" style="font-size:13px;font-family:'Arial'">mode=CRASH</text>
+<path d="M 300 237 v 20 " stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)" />
+
+<path d="M 300 270 l 100 20 l -100 20 l -100 -20 l 100 -20" stroke="#0000FF" stroke-width="1" fill="none" />
+<text x="250" y="293" style="font-size:13px;font-family:'Courier New'">backup_label?</text>
+<path d="M 300 312 v 10 " stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)" />
+<rect x="240" y="335" width="120" height="30" style="fill:none;stroke:#0000FF;stroke-width:1" />
+<text x="245" y="355" style="font-size:13px;font-family:'Arial'">get from control file</text>
+
+<path d="M 300 368 v 30 " stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)" />
+
+<path d="M 402 290 h 78 v 33" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)" />
+<rect x="410" y="335" width="140" height="30" style="fill:none;stroke:#0000FF;stroke-width:1" />
+<text x="417" y="355" style="font-size:13px;font-family:'Arial'">get from backup_label</text>
+<path d="M 480 368 v 15 H 312" stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)" />
+
+<rect x="200" y="410" width="200" height="30" style="fill:none;stroke:#0000FF;stroke-width:1" />
+<text x="240" y="430" style="font-size:13px;font-family:'Arial'">do the recovery work</text>
+</svg>
