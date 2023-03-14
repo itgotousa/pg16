@@ -18,11 +18,11 @@
 
 <text x="340" y="30" style="font-size:15px;font-family:'Arial'">archived WAL segments:</text>
 
-<rect x="340" y="40" width="200" height="20" style="fill:none;stroke:#0000FF;stroke-width:1" />
-<rect x="340" y="70" width="200" height="20" style="fill:none;stroke:#0000FF;stroke-width:1" />
-<rect x="340" y="100" width="200" height="20" style="fill:none;stroke:#0000FF;stroke-width:1" />
-<rect x="340" y="130" width="200" height="20" style="fill:none;stroke:#0000FF;stroke-width:1" />
-<rect x="340" y="160" width="200" height="20" style="fill:none;stroke:#0000FF;stroke-width:1" />
+<rect x="340" y="40" width="200" height="20" style="fill:rgb(218,232,252);stroke:#0000FF;stroke-width:1" />
+<rect x="340" y="70" width="200" height="20" style="fill:rgb(218,232,252);stroke:#0000FF;stroke-width:1" />
+<rect x="340" y="100" width="200" height="20" style="fill:rgb(218,232,252);stroke:#0000FF;stroke-width:1" />
+<rect x="340" y="130" width="200" height="20" style="fill:rgb(218,232,252);stroke:#0000FF;stroke-width:1" />
+<rect x="340" y="160" width="200" height="20" style="fill:rgb(218,232,252);stroke:#0000FF;stroke-width:1" />
 <text x="347" y="53" style="font-size:13px;font-family:'Courier New'">0000000B000000A6000000FD</text>
 <text x="347" y="83" style="font-size:13px;font-family:'Courier New'">0000000B000000A6000000FE</text>
 <text x="347" y="113" style="font-size:13px;font-family:'Courier New'">0000000B000000A6000000FF</text>
