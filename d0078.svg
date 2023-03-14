@@ -1,0 +1,79 @@
+<svg version="1.1" width="600" height="336" xmlns="http://www.w3.org/2000/svg">
+<defs><marker id="arrowhead" markerWidth="10" markerHeight="7" refX="0" refY="3.5" orient="auto"><polygon points="0 0, 10 3.5, 0 7" /></marker></defs>
+
+<ellipse cx="200" cy="170" rx="50" ry="20" style="fill:rgb(255,242,204);stroke:#0000FF;stroke-width:1" />
+<text x="172" y="173" style="font-size:13px;font-family:'Arial'">walsender</text>
+
+<ellipse cx="510" cy="170" rx="50" ry="20" style="fill:rgb(255,242,204);stroke:#0000FF;stroke-width:1" />
+<text x="465" y="173" style="font-size:13px;font-family:'Arial'">pg_basebackup</text>
+
+<text x="350" y="165" style="font-size:15px;font-family:'Arial'">fetch</text>
+<path d="M 255 170 H 445 " stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)" />
+<path d="M 300 20 V 326 " stroke="#000000" stroke-width="1" fill="none" stroke-dasharray="3,3"/>
+
+<text x="250" y="40" style="font-size:15px;font-family:'Arial'">server</text>
+<text x="310" y="40" style="font-size:15px;font-family:'Arial'">client</text>
+
+<text x="40" y="30" style="font-size:15px;font-family:'Arial'">data files</text>
+<text x="40" y="322" style="font-size:15px;font-family:'Arial'">wal files</text>
+
+<path d="M 127 110 H 200 V 138 " stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)" />
+<path d="M 127 256 H 200 V 202 " stroke="#000000" stroke-width="1" fill="none" marker-end="url(#arrowhead)" />
+
+
+<g transform="translate(40, 40)">
+<path d="M 0 5 a 5 5 0 0 1 5 -5 h 52 a 5 5 0 0 1 5 5 v 90 a 5 5 0 0 1 -5 5 h -52 a 5 5 0 0 1 -5 -5 v -90" stroke="#0000FF" stroke-width="1" fill="rgb(218,232,252)" />
+<path d="M 10 20 h 42 " stroke="#0000FF" stroke-width="1"/>
+<path d="M 10 30 h 42 " stroke="#0000FF" stroke-width="1"/>
+<path d="M 10 40 h 42 " stroke="#0000FF" stroke-width="1"/>
+<path d="M 10 50 h 42 " stroke="#0000FF" stroke-width="1"/>
+<path d="M 10 60 h 42 " stroke="#0000FF" stroke-width="1"/>
+<path d="M 10 70 h 42 " stroke="#0000FF" stroke-width="1"/>
+<path d="M 10 80 h 42 " stroke="#0000FF" stroke-width="1"/>
+</g>
+<g transform="translate(50, 50)">
+<path d="M 0 5 a 5 5 0 0 1 5 -5 h 52 a 5 5 0 0 1 5 5 v 90 a 5 5 0 0 1 -5 5 h -52 a 5 5 0 0 1 -5 -5 v -90" stroke="#0000FF" stroke-width="1" fill="rgb(218,232,252)" />
+<path d="M 10 20 h 42 " stroke="#0000FF" stroke-width="1"/>
+<path d="M 10 30 h 42 " stroke="#0000FF" stroke-width="1"/>
+<path d="M 10 40 h 42 " stroke="#0000FF" stroke-width="1"/>
+<path d="M 10 50 h 42 " stroke="#0000FF" stroke-width="1"/>
+<path d="M 10 60 h 42 " stroke="#0000FF" stroke-width="1"/>
+<path d="M 10 70 h 42 " stroke="#0000FF" stroke-width="1"/>
+<path d="M 10 80 h 42 " stroke="#0000FF" stroke-width="1"/>
+</g>
+<g transform="translate(60, 60)">
+<path d="M 0 5 a 5 5 0 0 1 5 -5 h 52 a 5 5 0 0 1 5 5 v 90 a 5 5 0 0 1 -5 5 h -52 a 5 5 0 0 1 -5 -5 v -90" stroke="#0000FF" stroke-width="1" fill="rgb(218,232,252)" />
+<path d="M 10 20 h 42 " stroke="#0000FF" stroke-width="1"/>
+<path d="M 10 30 h 42 " stroke="#0000FF" stroke-width="1"/>
+<path d="M 10 40 h 42 " stroke="#0000FF" stroke-width="1"/>
+<path d="M 10 50 h 42 " stroke="#0000FF" stroke-width="1"/>
+<path d="M 10 60 h 42 " stroke="#0000FF" stroke-width="1"/>
+<path d="M 10 70 h 42 " stroke="#0000FF" stroke-width="1"/>
+<path d="M 10 80 h 42 " stroke="#0000FF" stroke-width="1"/>
+</g>
+
+<g transform="translate(60, 180)">
+<path d="M 0 0 v 100 h 62 v -80 l -20 -20 h -42" stroke="#0000FF" stroke-width="1" fill="rgb(248,206,204)" />
+<path d="M 42 0 v 20 h 20" stroke="#0000FF" stroke-width="1" fill="rgb(248,206,204)" />
+<path d="M 10 40 h 42 " stroke="#0000FF" stroke-width="1"/>
+<path d="M 10 50 h 42 " stroke="#0000FF" stroke-width="1"/>
+<path d="M 10 60 h 42 " stroke="#0000FF" stroke-width="1"/>
+<path d="M 10 70 h 42 " stroke="#0000FF" stroke-width="1"/>
+</g>
+<g transform="translate(50, 193)">
+<path d="M 0 0 v 100 h 62 v -80 l -20 -20 h -42" stroke="#0000FF" stroke-width="1" fill="rgb(248,206,204)" />
+<path d="M 42 0 v 20 h 20" stroke="#0000FF" stroke-width="1" fill="rgb(248,206,204)" />
+<path d="M 10 40 h 42 " stroke="#0000FF" stroke-width="1"/>
+<path d="M 10 50 h 42 " stroke="#0000FF" stroke-width="1"/>
+<path d="M 10 60 h 42 " stroke="#0000FF" stroke-width="1"/>
+<path d="M 10 70 h 42 " stroke="#0000FF" stroke-width="1"/>
+</g>
+<g transform="translate(40, 206)">
+<path d="M 0 0 v 100 h 62 v -80 l -20 -20 h -42" stroke="#0000FF" stroke-width="1" fill="rgb(248,206,204)" />
+<path d="M 42 0 v 20 h 20" stroke="#0000FF" stroke-width="1" fill="rgb(248,206,204)" />
+<path d="M 10 40 h 42 " stroke="#0000FF" stroke-width="1"/>
+<path d="M 10 50 h 42 " stroke="#0000FF" stroke-width="1"/>
+<path d="M 10 60 h 42 " stroke="#0000FF" stroke-width="1"/>
+<path d="M 10 70 h 42 " stroke="#0000FF" stroke-width="1"/>
+</g>
+</svg>
